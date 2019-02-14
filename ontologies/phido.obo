@@ -1,0 +1,2836 @@
+format-version: 1.2
+ontology: phido
+property_value: created:by "alaynecuzick" xsd:string
+property_value: creation:date 2019-02-14T14:20:00Z xsd:string
+
+[Term]
+id: PHIDO:0000001
+name: abortions
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000002
+name: acute enteric disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000003
+name: acute gastroenteritis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000004
+name: aflatoxicosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000005
+name: african sleeping sickness
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000006
+name: agalactia syndrome
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000007
+name: tracheitis in chickens
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000008
+name: airsacculitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000009
+name: alternaria brown spot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000010
+name: alternaria leaf blotch
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000011
+name: american foulbrood
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000012
+name: angular leaf spot disease on cucumber
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000013
+name: anthracnose
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000014
+name: anthracnose leaf spot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000015
+name: anthracnose of cucurbitaceae
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000016
+name: anthracnose of cucurbits
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000017
+name: anthracnose stalk rot and leaf blight of maize
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000018
+name: anthrax
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000019
+name: apple scab
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000020
+name: arthritis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000021
+name: ascending pyelonephritis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000022
+name: ascochyta blight of chickpea
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000023
+name: aspergillosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000024
+name: avian colibacillosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000025
+name: bacteremia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000026
+name: bacterial blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000027
+name: bacterial blight in pelargonium
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000028
+name: bacterial blight of cotton
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000029
+name: bacterial blight of rice
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000030
+name: bacterial blight of soybean
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000031
+name: bacterial canker
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000032
+name: bacterial cold-water disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000033
+name: bacterial grain rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000034
+name: bacterial leaf blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000035
+name: bacterial leaf spot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000036
+name: bacterial leaf spot disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000037
+name: bacterial leaf streak
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000038
+name: bacterial midrib rot disease of lettuce
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000039
+name: bacterial panicle blight of rice
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000040
+name: bacterial speck
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000041
+name: bacterial speck of tomato
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000042
+name: bacterial spot disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000043
+name: bacterial spot disease in pepper and tomato
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000044
+name: bacterial spot disease of carambola
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000045
+name: bacterial spot of tomato and pepper
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000046
+name: bacterial wilt
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000047
+name: bakanae disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000048
+name: banana fusarium wilt
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000049
+name: barley leaf scald
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000050
+name: barley powdery mildew
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000051
+name: barley smut
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000052
+name: barley stem blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000053
+name: basal meningitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000054
+name: basal plate rot on onion
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000055
+name: bean brown spot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000056
+name: biocontrol: non pathogenic
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000057
+name: black leaf mould of tomato
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000058
+name: black rot disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000059
+name: black rot of crucifers
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000060
+name: black sigatoka disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000061
+name: black spot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000062
+name: black spot disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000063
+name: black spot of pear
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000064
+name: blackleg disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000065
+name: blackleg disease of the plant stem
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000066
+name: blackleg of rapeseed
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000067
+name: blackpoint in barley and wheat
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000068
+name: blast disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000069
+name: blood infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000070
+name: bloodstream infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000071
+name: bloody diarrhea
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000072
+name: blossom blight and fruit rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000073
+name: blue mould
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000074
+name: blue mould rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000075
+name: bordetellosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000076
+name: bovine mastitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000077
+name: brown blotch of mushrooms
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000078
+name: brown leaf spot disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000079
+name: brown rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000080
+name: brown rot of stone fruit
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000081
+name: brown spot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000082
+name: brown spot disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000083
+name: brown spot on bean
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000084
+name: brucellosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000085
+name: bubonic plague
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000086
+name: campylobacteriosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000087
+name: candidemia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000088
+name: candidiasis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000089
+name: canker stain disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000090
+name: cassava bacterial blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000091
+name: cellulitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000092
+name: cerebral cryptococcomas
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000093
+name: cerebral malaria
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000094
+name: chagas disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000095
+name: chancroid
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000096
+name: chestnut blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000097
+name: cholera
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000098
+name: chronic implant-associated infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000099
+name: citrus black rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000100
+name: citrus brown spot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000101
+name: citrus canker
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000102
+name: citrus green mould
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000103
+name: clostridial myonecrosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000104
+name: coccidioidomycosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000105
+name: colibacillosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000106
+name: colitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000107
+name: common root rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000108
+name: common scab of potato
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000109
+name: community- and hospital-acquired infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000110
+name: community-associated and nosocomial infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000111
+name: contagious agalactia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000112
+name: corky root rot of tomato
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000113
+name: corn smut
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000114
+name: corneal infection
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000115
+name: covered smut of barley
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000116
+name: crohn's disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000117
+name: crown gall disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000118
+name: crown gall of grapes
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000119
+name: crown infection
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000120
+name: crucifer anthracnose
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000121
+name: cryptococcal meningoencephalitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000122
+name: cryptococcosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000123
+name: cucumber anthracnose
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000124
+name: cucumber fusarium wilt
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000125
+name: curvularia leaf spot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000126
+name: cystic fibrosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000127
+name: cystic fibrosis-like conditions
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000128
+name: cystitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000129
+name: deaths in neonates
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000130
+name: denture stomatitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000131
+name: dermatophytosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000132
+name: diarrhea
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000133
+name: diarrheal diseases
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000134
+name: diphtheria
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000135
+name: diseases of the skeletal system in children and infective endocarditis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000136
+name: disseminated candidiasis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000137
+name: disseminated cryptococcosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000138
+name: disseminated disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000139
+name: dothistroma needle blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000140
+name: downy mildew
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000141
+name: downy mildew of arabidopsis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000142
+name: dry bubble disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000143
+name: ear and stalk rot of maize
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000144
+name: ear rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000145
+name: ear rot in corn and yellow mould in peanuts
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000146
+name: early blight of potato
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000147
+name: early senescence and ripening
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000148
+name: edwardsiellosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000149
+name: endocarditis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000150
+name: enteric diseases
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000151
+name: enteric fever
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000152
+name: enteric redmouth disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000153
+name: enteric septicaemia of catfish
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000154
+name: enteric septicemia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000155
+name: enteritis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000156
+name: enterococcal endocarditis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000157
+name: enterotoxemia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000158
+name: epizootic infectious disease in poultry
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000159
+name: ergot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000160
+name: erythematous candidiasis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000161
+name: far east scarlet-like fever
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000162
+name: fatal canine hemorrhagic gastroenteritis and fatal foal necrotizing enterocolitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000163
+name: fatal septicemia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000164
+name: fibrinous serositis, sometimes with caseous salpingitis and vegetative disorder
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000165
+name: fire blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000166
+name: fire blight disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000167
+name: flax rust
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000168
+name: foliar blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000169
+name: food poisoning
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000170
+name: food poisoning and gastroenteritis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000171
+name: foodborne outbreaks
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000172
+name: foolish seedling
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000173
+name: frog-eye leafspot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000174
+name: fruit rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000175
+name: fungal keratitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000176
+name: fungal meningitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000177
+name: furunculosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000178
+name: fusarium crown rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000179
+name: fusarium ear blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000180
+name: fusarium head blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000181
+name: fusarium head blight and crown rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000182
+name: fusarium wilt
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000183
+name: gastric infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000184
+name: gastric pharyngitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000185
+name: gastroenteritis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000186
+name: gastrointestinal disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000187
+name: gastrointestinal disease yersiniosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000188
+name: gastrointestinal diseases and local and systemic infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000189
+name: glasser's disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000190
+name: glume blotch
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000191
+name: gonorrhea
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000192
+name: granuloma
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000193
+name: granulomas
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000194
+name: green mould
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000195
+name: green mould decay on citrus fruit
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000196
+name: green mould rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000197
+name: green muscardine disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000198
+name: grey mould
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000199
+name: grey mould fungus
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000200
+name: group A streptococcal infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000201
+name: group B strep infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000202
+name: gut-associated diseases
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000203
+name: halo blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000204
+name: healthcare-associated bacterial infection
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000205
+name: hemolymph bleeding
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000206
+name: hemolytic uremic syndrome
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000207
+name: hemorrhagic colitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000208
+name: hemorrhagic colitis and hemolytic uremic syndrome
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000209
+name: hemorrhagic septicemia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000210
+name: histoplasmosis (pulmonary disease)
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000211
+name: hospital-acquired infection
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000212
+name: human african trypanosomiasis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000213
+name: human gas gangrene
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000214
+name: hydrosalpinx
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000215
+name: immunosuppression
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000216
+name: infection of oral mucosa and genital tract
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000217
+name: infectious bronchitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000218
+name: infectious coryza
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000219
+name: infective endocarditis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000220
+name: infertility
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000221
+name: intestinal and extraintestinal infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000222
+name: intra-abdominal infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000223
+name: invasive aspergillosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000224
+name: invasive pulmonary aspergillosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000225
+name: keratitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000226
+name: keratoconjonctivitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000227
+name: late blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000228
+name: late blight of potato
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000229
+name: leaf and glume blotch disease of wheat
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000230
+name: leaf blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000231
+name: leaf blight and purple seed stain
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000232
+name: leaf blotch
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000233
+name: leaf blotch of barley
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000234
+name: leaf mould
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000235
+name: leaf scald disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000236
+name: leaf spot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000237
+name: leaf spot in soybean
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000238
+name: leaf spot on celery
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000239
+name: legionellosis or legionnaires' disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000240
+name: legionnaires' disease pneumonia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000241
+name: leishmaniasis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000242
+name: leptospirosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000243
+name: lettuce midrib rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000244
+name: life threatening infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000245
+name: light leaf spot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000246
+name: listeriosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000247
+name: luminescent vibriosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000248
+name: luminous vibriosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000249
+name: lung infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000250
+name: lyme borreliosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000251
+name: lyme disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000252
+name: maize anthracnose
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000253
+name: maize ear rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000254
+name: maize grey leaf spot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000255
+name: maize leaf anthracnose / stalk rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000256
+name: maize leaf spot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000257
+name: maize smut disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000258
+name: maize stalk rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000259
+name: malaria
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000260
+name: mango anthracnose
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000261
+name: mastitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000262
+name: mastitis in cows
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000263
+name: melioidosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000264
+name: melon wilt
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000265
+name: meningitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000266
+name: meningococcal infection
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000267
+name: meningoencephalitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000268
+name: meningoencephalitis in fish
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000269
+name: mucormycosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000270
+name: murine colonic hyperplasia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000271
+name: muskmelon wilt disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000272
+name: mycopathogen
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000273
+name: mycosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000274
+name: mycotic mastitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000275
+name: nausea
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000276
+name: necrotic enteritis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000277
+name: necrotic leaf spots in celery, eggplant and sweet pepper
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000278
+name: necrotizing fasciitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000279
+name: necrotizingfasciitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000280
+name: nematode trapping fungus
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000281
+name: neonatal meningitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000282
+name: neonatal sepsis and meningitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000283
+name: neonatalpneumonia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000284
+name: net blotch
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000285
+name: northern leaf blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000286
+name: nosocomial bacteremia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000287
+name: nosocomial infection
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000288
+name: nosocomial infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000289
+name: nosocomial pneumonia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000290
+name: ocular and sexually transmitted diseases
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000291
+name: olive knot disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000292
+name: opportunistic infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000293
+name: oral candidiasis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000294
+name: oropharyngeal candidiasis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000295
+name: osteomyelitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000296
+name: otitis media
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000297
+name: otitis media and invasive disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000298
+name: ovine brucellosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000299
+name: panicle blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000300
+name: paracoccidioidomycosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000301
+name: pasteurellosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000302
+name: periodontitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000303
+name: peritonitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000304
+name: pertussis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000305
+name: phaeohyphomycosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000306
+name: pharyngitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000307
+name: pharyngitis and impetigo to severe invasive diseases such as necrotizing fasciitis and streptococcal toxic shock syndrome
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000308
+name: phoma stem canker
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000309
+name: phytophthora blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000310
+name: pierce disease of grapes and citrus variegated chlorosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000311
+name: pierce's disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000312
+name: pierce's disease of grapevines
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000313
+name: pine wilt disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000314
+name: plague
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000315
+name: plane canker stain
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000316
+name: pneumococcal pneumonia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000317
+name: pneumonia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000318
+name: pneumonia and meningitis in neonates
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000319
+name: pneumonia in pigs
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000320
+name: pneumonic plague
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000321
+name: pneumonitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000322
+name: pokkah boeng
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000323
+name: poplar anthracnose
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000324
+name: poplar bark cankers
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000325
+name: poplar leaf rust
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000326
+name: porcine pleuropneumonia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000327
+name: postpartum infection
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000328
+name: potato brown rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000329
+name: potato buckeye rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000330
+name: potato cyst
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000331
+name: potato late blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000332
+name: potato rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000333
+name: potato scab
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000334
+name: powdery mildew
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000335
+name: powdery mildew on barley
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000336
+name: probiotic gut bacteria
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000337
+name: pseudobacteremia or asymptomatic colonization of patients
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000338
+name: pseudomembranous colitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000339
+name: pullorum disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000340
+name: pulmonary and cutaneo-mucous infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000341
+name: pulmonary aspergillosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000342
+name: pulmonary cryptococcosis (lung infection)
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000343
+name: pulmonary diseases
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000344
+name: pyelonephritis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000345
+name: Q fever
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000346
+name: reduced virulence
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000347
+name: relapsing fever
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000348
+name: respiratory and systemic disease in poultry
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000349
+name: respiratory disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000350
+name: respiratory diseases
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000351
+name: respiratory illness
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000352
+name: respiratory infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000353
+name: rice bacterial blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000354
+name: rice bacterial leaf blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000355
+name: rice bacterial leaf streak
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000356
+name: rice blast
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000357
+name: rice blast disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000358
+name: rice false smut disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000359
+name: ringworm
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000360
+name: root and butt rot disease of conifers
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000361
+name: root rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000362
+name: root, collar, and crown rots, as well as foliar and fruit infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000363
+name: rotting of tubers
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000364
+name: rubber anthracnose
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000365
+name: salmonellosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000366
+name: salmonellosis in cattle
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000367
+name: saprophytic
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000368
+name: scald
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000369
+name: scald/leaf blotch
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000370
+name: sclerotinia head rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000371
+name: sclerotinia stem rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000372
+name: seedling blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000373
+name: self-limiting gastroenteritis in humans and a typhoid-like disease in mice
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000374
+name: sepsis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000375
+name: septicaemia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000376
+name: septicemia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000377
+name: septoria leaf blotch
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000378
+name: septoria nodorum blotch
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000379
+name: septoria tritici blotch
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000380
+name: sexually transmitted diseases
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000381
+name: sheath brown rot disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000382
+name: shigellosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000383
+name: sinusitis in turkeys
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000384
+name: skin infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000385
+name: skin lesions
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000386
+name: smut disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000387
+name: smut disease of maize
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000388
+name: soft rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000389
+name: soft rot disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000390
+name: soft rot of potato tubers and blackleg disease in potato stems
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000391
+name: soft rot of the potato
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000392
+name: southern corn leaf blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000393
+name: soybean root rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000394
+name: soybean stem and root rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000395
+name: sporadic diarrhea
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000396
+name: spot blotch
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000397
+name: spot blotch disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000398
+name: stagonospora nodorum blotch
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000399
+name: stalk rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000400
+name: stalk rot and leaf blight of maize
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000401
+name: stalk rot of maize
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000402
+name: stem canker
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000403
+name: stem canker of oilseed rape
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000404
+name: stem necrosis in chrysanthemum
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000405
+name: stem rot of soybean
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000406
+name: stem rust
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000407
+name: stem rust disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000408
+name: stewart's bacterial wilt and leaf blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000409
+name: stewart's wilt
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000410
+name: stewart's wilt and leaf blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000411
+name: stewart's wilt and leaf blight of maize
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000412
+name: stewart's wilt of sweet corn
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000413
+name: storage rots
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000414
+name: streptococcal sore throat (strep throat) to necrotizing fasciitis (flesh-eating disease)
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000415
+name: streptococcal toxic shock syndrome
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000416
+name: streptococcicosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000417
+name: subsequent death
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000418
+name: sudden death syndrome
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000419
+name: sugarbeet leaf spot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000420
+name: suppresses soilborne plant diseases caused by a number of fungi
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000421
+name: swollen head syndrome
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000422
+name: systemic cryptococcosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000423
+name: systemic diseases in cattle
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000424
+name: take-all
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000425
+name: tan spot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000426
+name: tick-borne relapsing fever
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000427
+name: tobacco black shank disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000428
+name: tobacco wild fire disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000429
+name: tomato leaf mould
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000430
+name: tomato wilt
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000431
+name: toppling or blackhead disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000432
+name: toxic megacolon
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000433
+name: toxic shock syndrome
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000434
+name: toxoplasmic encephalitis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000435
+name: toxoplasmosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000436
+name: traveler's diarrhea
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000437
+name: tuberculosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000438
+name: tularemia
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000439
+name: ulcer disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000440
+name: upper genital tract infections
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000441
+name: urinary tract infection
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000442
+name: vaginal candidiasis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000443
+name: variety of acute and chronic diseases of the respiratory tract
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000444
+name: vascular wilt
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000445
+name: vascular wilt disease of banana
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000446
+name: vascular wilt diseases
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000447
+name: verticillium wilt
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000448
+name: vibriosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000449
+name: vine blight
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000450
+name: vomiting
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000451
+name: vulvovaginal candidiasis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000452
+name: water soaking
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000453
+name: wheat glume blotch disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000454
+name: wheat powdery mildew
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000455
+name: wheat scab disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000456
+name: wheat stagonospora nodorum blotch
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000457
+name: wheat stripe rust fungus
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000458
+name: wheat yellow rust
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000459
+name: white mould
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000460
+name: white mould or stem rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000461
+name: white muscardine disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000462
+name: white root rot
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000463
+name: wildfire disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000464
+name: wilt and canker disease of tomato
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000465
+name: wilt and stem rot on muskmelon
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000466
+name: wilt disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000467
+name: witches' broom disease
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000468
+name: yellow rust
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000469
+name: yersiniosis
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000470
+name: zoonosis glanders
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000471
+name: zoonosis Q fever
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
+
+[Term]
+id: PHIDO:0000472
+name: zoonotic infection
+created_by: alaynecuzick
+creation_date: 2019-02-14T14:17:56Z
