@@ -2846,3 +2846,73 @@ is_a: PHIDO:0000001 ! disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
+[Term]
+id: PHIDO:0000407
+name: floral disease
+is_a: PHIDO:0000405 ! plant disease
+created_by: alaynecuzick
+creation_date: 2019-03-18T11:15:24Z
+
+[Term]
+id: PHIDO:0000408
+name: stem disease
+is_a: PHIDO:0000405 ! plant disease
+created_by: alaynecuzick
+creation_date: 2019-03-18T11:16:21Z
+
+[Term]
+id: PHIDO:0000409
+name: root disease
+is_a: PHIDO:0000405 ! plant disease
+created_by: alaynecuzick
+creation_date: 2019-04-01T12:48:43Z
+
+[Term]
+id: PHIDO:0000410
+name: stem base disease
+is_a: PHIDO:0000405 ! plant disease
+created_by: alaynecuzick
+creation_date: 2019-04-01T12:48:43Z
+
+[Term]
+id: PHIDO:0000411
+name: leaf disease
+is_a: PHIDO:0000405 ! plant disease
+created_by: alaynecuzick
+creation_date: 2019-04-01T12:48:43Z
+
+[Term]
+id: PHIDO:0000412
+name: cotyledon disease
+is_a: PHIDO:0000405 ! plant disease
+created_by: alaynecuzick
+creation_date: 2019-04-01T12:48:43Z
+
+[Term]
+id: PHIDO:0000413
+name: hypocotyl disease
+is_a: PHIDO:0000405 ! plant disease
+created_by: alaynecuzick
+creation_date: 2019-04-01T12:48:43Z
+
+[Term]
+id: PHIDO:0000414
+name: fruit disease
+is_a: PHIDO:0000405 ! plant disease
+created_by: alaynecuzick
+creation_date: 2019-04-01T12:48:43Z
+
+[Term]
+id: PHIDO:0000415
+name: pod disease
+is_a: PHIDO:0000405 ! plant disease
+created_by: alaynecuzick
+creation_date: 2019-04-01T12:48:43Z
+
+[Term]
+id: PHIDO:0000416
+name: seed disease
+is_a: PHIDO:0000405 ! plant disease
+created_by: alaynecuzick
+creation_date: 2019-04-01T12:48:43Z
+

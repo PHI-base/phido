@@ -4616,6 +4616,116 @@
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label xml:lang="en">animal disease</rdfs:label>
     </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000407 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000407">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alaynecuzick</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-03-18T11:15:24Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">floral disease</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000408 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000408">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alaynecuzick</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-03-18T11:16:21Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">stem disease</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000409 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000409">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alaynecuzick</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-01T12:48:43Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">root disease</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000410 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000410">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alaynecuzick</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-01T12:48:43Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">stem base disease</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000411 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000411">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alaynecuzick</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-01T12:48:43Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">leaf disease</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000412 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000412">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alaynecuzick</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-01T12:48:43Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">cotyledon disease</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000413 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000413">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alaynecuzick</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-01T12:48:43Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">hypocotyl disease</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000414 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000414">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alaynecuzick</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-01T12:48:43Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">fruit disease</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000415 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000415">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alaynecuzick</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-01T12:48:43Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">pod disease</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000416 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000416">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alaynecuzick</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-04-01T12:48:43Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">seed disease</rdfs:label>
+    </owl:Class>
 </rdf:RDF>
 
 
