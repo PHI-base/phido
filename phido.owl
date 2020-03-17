@@ -3,7 +3,6 @@
      xml:base="http://purl.obolibrary.org/obo/phido.owl/"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
-     xmlns:oboInOWL="http://www.geneontology.org/formats/oboInOWL#"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
@@ -37,24 +36,6 @@
     <!-- http://purl.obolibrary.org/obo/namespace -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/namespace"/>
-    
-
-
-    <!-- http://www.geneontology.org/formats/oboInOWL#hasExactSynonym -->
-
-    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOWL#hasExactSynonym"/>
-    
-
-
-    <!-- http://www.geneontology.org/formats/oboInOWL#hasRelatedSynonym -->
-
-    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOWL#hasRelatedSynonym"/>
-    
-
-
-    <!-- http://www.geneontology.org/formats/oboInOWL#inSubset -->
-
-    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOWL#inSubset"/>
     
 
 
