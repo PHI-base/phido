@@ -1,6 +1,6 @@
 format-version: 1.2
 ontology: phido
-owl-axioms: Prefix(owl:=<http://www.w3.org/2002/07/owl#>)\nPrefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)\nPrefix(xml:=<http://www.w3.org/XML/1998/namespace>)\nPrefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)\nPrefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)\n\n\nOntology(\nDeclaration(Class(<http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000001>))\n############################\n#   Classes\n############################\n\n# Class: <http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000001> (disease)\n\nSubClassOf(<http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000001> owl:Thing)\n\n\n)
+owl-axioms: Prefix(owl:=<http://www.w3.org/2002/07/owl#>)\nPrefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)\nPrefix(xml:=<http://www.w3.org/XML/1998/namespace>)\nPrefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)\nPrefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)\n\n\nOntology(\nDeclaration(Class(<http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000001>))\n############################\n#   Classes\n############################\n\n# Class: <http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000001> (<http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000001>)\n\nSubClassOf(<http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000001> owl:Thing)\n\n\n)
 creation_date: 2018-07-09T13:43:00Z
 created_by: alaynecuzick
 
@@ -2915,4 +2915,11 @@ name: seed disease
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
 creation_date: 2019-04-01T12:48:43Z
+
+[Term]
+id: PHIDO:0000417
+name: potato wart
+is_a: PHIDO:0000405 ! plant disease
+created_by: alaynecuzick
+creation_date: 2020-03-17T14:33:43Z
 
