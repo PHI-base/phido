@@ -135,7 +135,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000001 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000001">
-        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
         <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label xml:lang="en">disease</rdfs:label>
