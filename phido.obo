@@ -1,6 +1,6 @@
 format-version: 1.2
+idspace: oboInOwl http://www.geneontology.org/formats/oboInOwl# 
 ontology: phido
-owl-axioms: Prefix(owl:=<http://www.w3.org/2002/07/owl#>)\nPrefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)\nPrefix(xml:=<http://www.w3.org/XML/1998/namespace>)\nPrefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)\nPrefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)\n\n\nOntology(\nDeclaration(Class(<http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000001>))\n############################\n#   Classes\n############################\n\n# Class: <http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000001> (<http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000001>)\n\nSubClassOf(<http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000001> owl:Thing)\n\n\n)
 creation_date: 2018-07-09T13:43:00Z
 created_by: alaynecuzick
 
@@ -12,22 +12,27 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000002
-name: abortion
+name: obsolete abortion
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000003
-name: acute enteric disease
+name: obsolete acute enteric disease
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+consider: PHIDO:0000168
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000004
-name: acute gastroenteritis
+name: obsolete acute gastroenteritis
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+consider: PHIDO:0000167
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -40,8 +45,10 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000006
-name: african sleeping sickness
+name: obsolete african sleeping sickness
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+replaced_by: PHIDO:0000190
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -61,21 +68,21 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000009
-name: alternaria brown spot
-is_a: PHIDO:0000405 ! plant disease
+name: Alternaria brown spot
+is_a: PHIDO:0000484 ! spot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000010
-name: alternaria leaf blotch
-is_a: PHIDO:0000405 ! plant disease
+name: Alternaria leaf blotch
+is_a: PHIDO:0000208 ! leaf blotch
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000011
-name: american foulbrood
+name: American foulbrood
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -83,7 +90,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000012
 name: angular leaf spot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000211 ! leaf spot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -96,8 +103,11 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000014
-name: anthracnose leaf spot
+name: obsolete anthracnose leaf spot
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+replaced_by: PHIDO:0000013
+replaced_by: PHIDO:0000211
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -111,7 +121,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000016
 name: apple scab
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000477 ! scab
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -131,8 +141,10 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000019
-name: ascochyta blight
-is_a: PHIDO:0000405 ! plant disease
+name: obsolete Ascochyta blight
+is_a: PHIDO:0000430 ! blight
+is_obsolete: true
+consider: PHIDO:0000430
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -145,15 +157,16 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000021
-name: asymptomatic colonization
+name: obsolete asymptomatic colonization
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000022
 name: avian colibacillosis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000090 ! colibacillosis
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -167,35 +180,39 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000024
 name: bacterial blight
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000422 ! bacterial disease
+is_a: PHIDO:0000430 ! blight
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000025
 name: bacterial canker
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000422 ! bacterial disease
+is_a: PHIDO:0000435 ! canker
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000026
 name: bacterial cold water disease
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000422 ! bacterial disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000027
 name: bacterial grain rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000422 ! bacterial disease
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000028
 name: bacterial leaf blight
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000024 ! bacterial blight
+is_a: PHIDO:0000207 ! leaf blight
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -209,48 +226,53 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000030
 name: bacterial leaf streak
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000411 ! leaf disease
+is_a: PHIDO:0000422 ! bacterial disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000031
 name: bacterial midrib rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000422 ! bacterial disease
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000032
 name: bacterial panicle blight
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000266 ! panicle blight
+is_a: PHIDO:0000422 ! bacterial disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000033
 name: bacterial speck
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000422 ! bacterial disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000034
 name: bacterial spot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000422 ! bacterial disease
+is_a: PHIDO:0000484 ! spot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000035
 name: bacterial wilt
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000397 ! wilt
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000036
 name: bakanae
+synonym: "foolish seedling" EXACT []
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -264,29 +286,37 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000038
-name: barley leaf scald
+name: obsolete barley leaf scald
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000210
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000039
-name: barley powdery mildew
+name: obsolete barley powdery mildew
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000296
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000040
-name: barley smut
+name: obsolete barley smut
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000338
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000041
-name: barley stem blight
+name: obsolete barley stem blight
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000485
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -300,20 +330,22 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000043
 name: basal plate rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000044
-name: bean brown spot
+name: obsolete bean brown spot
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000065
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000045
-name: biocontrol: non pathogenic
+name: obsolete biocontrol: non pathogenic
 is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 created_by: alaynecuzick
@@ -322,14 +354,14 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000046
 name: black leaf mold
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000209 ! leaf mold
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000047
 name: black rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -343,14 +375,14 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000049
 name: black spot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000484 ! spot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000050
 name: blackhead disease
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -370,29 +402,34 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000053
-name: blast disease
+name: blast
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000054
-name: blood infections
+name: blood infection
+synonym: "bloodstream infection" EXACT []
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000055
-name: bloodstream infections
+name: obsolete bloodstream infection
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+replaced_by: PHIDO:0000054
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000056
-name: bloody diarrhea
+name: obsolete bloody diarrhea
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+consider: PHIDO:0000116
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -406,14 +443,17 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000058
 name: blue mold
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000462 ! mold
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000059
-name: blue mold rot
+name: obsolete blue mold rot
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000058
+consider: PHIDO:0000474
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -427,14 +467,14 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000061
 name: bovine mastitis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000234 ! mastitis
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000062
 name: brown blotch
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000431 ! blotch
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -448,14 +488,14 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000064
 name: brown rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000065
 name: brown spot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000484 ! spot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -476,7 +516,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000068
 name: butt rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -491,6 +531,7 @@ creation_date: 2019-02-27T14:11:00Z
 id: PHIDO:0000070
 name: candidemia
 is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000451 ! fungal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -498,13 +539,14 @@ creation_date: 2019-02-27T14:11:00Z
 id: PHIDO:0000071
 name: candidiasis
 is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000451 ! fungal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000072
 name: canker stain
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000435 ! canker
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -517,8 +559,10 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000074
-name: cassava bacterial blight
+name: obsolete cassava bacterial blight
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000024
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -539,13 +583,13 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000077
 name: cerebral malaria
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000232 ! malaria
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000078
-name: chagas disease
+name: Chagas disease
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -559,8 +603,10 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000080
-name: chestnut blight
+name: obsolete chestnut blight
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000430
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -573,42 +619,52 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000082
-name: chronic implant-associated infections
+name: obsolete chronic implant-associated infections
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+consider: PHIDO:0000503
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000083
-name: citrus black rot
+name: obsolete citrus black rot
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000047
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000084
-name: citrus brown spot
+name: obsolete citrus brown spot
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000065
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000085
-name: citrus canker
+name: obsolete citrus canker
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000435
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000086
-name: citrus green mold
+name: obsolete citrus green mold
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000174
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000087
-name: citrus variegated chlorosis
+name: Citrus variegated chlorosis
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -651,7 +707,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000093
 name: common root rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000318 ! root rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -665,7 +721,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000095
 name: corky root rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000318 ! root rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -700,7 +756,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000100
 name: crown gall
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000101 ! crown infection
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -720,15 +776,17 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000103
-name: crucifer anthracnose
+name: obsolete crucifer anthracnose
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000013
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000104
 name: cryptococcal meningoencephalitis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000239 ! meningoencephalitis
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -741,28 +799,32 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000106
-name: cucumber anthracnose
+name: obsolete cucumber anthracnose
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000013
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000107
-name: cucumber fusarium wilt
+name: obsolete cucumber fusarium wilt
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000164
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000108
-name: curvularia leaf spot
-is_a: PHIDO:0000405 ! plant disease
+name: Curvularia leaf spot
+is_a: PHIDO:0000211 ! leaf spot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000109
-name: cutaneo-mucous infections
+name: mucocutaneous infection
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -818,8 +880,10 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000117
-name: diarrheal diseases
+name: obsolete diarrheal diseases
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+consider: PHIDO:0000116
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -832,22 +896,26 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000119
-name: diseases of the skeletal system in children
+name: obsolete diseases of the skeletal system in children
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+consider: PHIDO:0000481
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000120
 name: disseminated candidiasis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000071 ! candidiasis
+is_a: PHIDO:0000122 ! disseminated disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000121
 name: disseminated cryptococcosis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000105 ! cryptococcosis
+is_a: PHIDO:0000122 ! disseminated disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -860,15 +928,15 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000123
-name: dothistroma needle blight
-is_a: PHIDO:0000405 ! plant disease
+name: Dothistroma needle blight
+is_a: PHIDO:0000430 ! blight
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000124
 name: downy mildew
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000461 ! mildew
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -882,28 +950,32 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000126
 name: ear rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000127
-name: early blight of potato
+name: obsolete early blight of potato
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000448
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000128
-name: early ripening
+name: obsolete early ripening
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000129
-name: early senescence
+name: obsolete early senescence
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -923,14 +995,17 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000132
-name: enteric diseases
+name: obsolete enteric diseases
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+replaced_by: PHIDO:0000168
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000133
-name: enteric fever
+name: typhoid fever
+synonym: "enteric fever" EXACT []
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -945,7 +1020,8 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000135
 name: enteric septicemia
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000168 ! gastrointestinal disease
+is_a: PHIDO:0000328 ! septicemia
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -959,7 +1035,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000137
 name: enterococcal endocarditis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000131 ! endocarditis
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -972,8 +1048,9 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000139
-name: epizootic infectious disease
+name: obsolete epizootic infectious disease
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -987,42 +1064,49 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000141
 name: erythematous candidiasis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000071 ! candidiasis
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000142
-name: extraintestinal infections
+name: obsolete extraintestinal infections
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000143
-name: far east scarlet-like fever
+name: Far East scarlet-like fever
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000144
-name: fatal canine hemorrhagic gastroenteritis
+name: obsolete fatal canine hemorrhagic gastroenteritis
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+consider: PHIDO:0000501
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000145
-name: fatal foal necrotizing enterocolitis
+name: obsolete fatal foal necrotizing enterocolitis
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+consider: PHIDO:0000502
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000146
-name: fatal septicemia
+name: obsolete fatal septicemia
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+consider: PHIDO:0000328
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1043,35 +1127,42 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000149
 name: flax rust
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000475 ! rust
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000150
-name: foliar blight
-is_a: PHIDO:0000405 ! plant disease
+name: obsolete foliar blight
+is_a: PHIDO:0000430 ! blight
+is_obsolete: true
+replaced_by: PHIDO:0000207
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000151
-name: foliar infection
+name: obsolete foliar infection
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+replaced_by: PHIDO:0000411
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000152
-name: food poisoning
+name: obsolete food poisoning
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+consider: PHIDO:0000168
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000153
-name: foodborne outbreaks
+name: obsolete foodborne outbreaks
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1084,36 +1175,40 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000155
-name: frog-eye leafspot
-is_a: PHIDO:0000405 ! plant disease
+name: frog-eye leaf spot
+is_a: PHIDO:0000211 ! leaf spot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000156
-name: fruit infection
+name: obsolete fruit infection
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+replaced_by: PHIDO:0000414
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000157
 name: fruit rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000158
 name: fungal keratitis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000204 ! keratitis
+is_a: PHIDO:0000451 ! fungal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000159
 name: fungal meningitis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000237 ! meningitis
+is_a: PHIDO:0000451 ! fungal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1126,56 +1221,64 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000161
-name: fusarium crown rot
-is_a: PHIDO:0000405 ! plant disease
+name: Fusarium crown rot
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000162
-name: fusarium ear blight
-is_a: PHIDO:0000405 ! plant disease
+name: Fusarium ear blight
+synonym: "Fusarium head blight" EXACT []
+is_a: PHIDO:0000430 ! blight
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000163
-name: fusarium head blight
+name: obsolete fusarium head blight
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+replaced_by: PHIDO:0000162
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000164
-name: fusarium wilt
-is_a: PHIDO:0000405 ! plant disease
+name: Fusarium wilt
+is_a: PHIDO:0000397 ! wilt
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000165
-name: gastric infections
-is_a: PHIDO:0000406 ! animal disease
+name: obsolete gastric disease
+synonym: "gastric infection" NARROW []
+is_obsolete: true
+replaced_by: PHIDO:0000168
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000166
 name: gastric pharyngitis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000168 ! gastrointestinal disease
+is_a: PHIDO:0000273 ! pharyngitis
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000167
 name: gastroenteritis
-is_a: PHIDO:0000406 ! animal disease
+synonym: "gastric infection" NARROW []
+is_a: PHIDO:0000168 ! gastrointestinal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000168
 name: gastrointestinal disease
+synonym: "enteric disease" EXACT []
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -1197,7 +1300,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000171
 name: glume blotch
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000431 ! blotch
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1210,29 +1313,34 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000173
-name: granuloma
+name: obsolete granuloma
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000174
 name: green mold
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000462 ! mold
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000175
-name: green mold decay
+name: obsolete green mold decay
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000174
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000176
-name: green mold rot
+name: obsolete green mold rot
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000174
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1246,28 +1354,30 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000178
 name: grey mold
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000462 ! mold
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000179
-name: group A streptococcal infections
-is_a: PHIDO:0000406 ! animal disease
+name: group A streptococcal infection
+is_a: PHIDO:0000486 ! streptococcal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000180
-name: group B streptococcal infections
-is_a: PHIDO:0000406 ! animal disease
+name: group B streptococcal infection
+is_a: PHIDO:0000486 ! streptococcal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000181
-name: gut-associated diseases
+name: obsolete gut-associated diseases
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+consider: PHIDO:0000168
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1280,15 +1390,18 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000183
-name: healthcare-associated bacterial infection
+name: obsolete healthcare-associated bacterial infection
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+consider: PHIDO:0000255
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000184
-name: hemolymph bleeding
+name: obsolete hemolymph bleeding
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1302,41 +1415,45 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000186
 name: hemorrhagic colitis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000091 ! colitis
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000187
 name: hemorrhagic septicemia
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000328 ! septicemia
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000188
-name: histoplasmosis (pulmonary disease)
-is_a: PHIDO:0000406 ! animal disease
+name: histoplasmosis
+is_a: PHIDO:0000303 ! lung disease
+is_a: PHIDO:0000451 ! fungal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000189
-name: hospital-acquired infection
+name: obsolete hospital-acquired infection
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+replaced_by: PHIDO:0000255
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000190
-name: human african trypanosomiasis
+name: African trypanosomiasis
+synonym: "African sleeping sickness" EXACT []
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000191
-name: human gas gangrene
+name: gas gangrene
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -1350,8 +1467,9 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000193
-name: immunosuppression
+name: obsolete immunosuppression
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1385,21 +1503,23 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000198
-name: infertility
+name: obsolete infertility
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000199
-name: intestinal infection
+name: intestinal disease
+synonym: "intestinal infection" NARROW []
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000200
-name: intra-abdominal infections
+name: intra-abdominal infection
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -1407,7 +1527,8 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000201
 name: invasive aspergillosis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000020 ! aspergillosis
+is_a: PHIDO:0000202 ! invasive disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1421,7 +1542,8 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000203
 name: invasive pulmonary aspergillosis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000202 ! invasive disease
+is_a: PHIDO:0000301 ! pulmonary aspergillosis
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1434,7 +1556,7 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000205
-name: keratoconjonctivitis
+name: keratoconjunctivitis
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -1442,42 +1564,48 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000206
 name: late blight
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000430 ! blight
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000207
 name: leaf blight
-is_a: PHIDO:0000405 ! plant disease
+synonym: "foliar blight" EXACT []
+is_a: PHIDO:0000411 ! leaf disease
+is_a: PHIDO:0000430 ! blight
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000208
 name: leaf blotch
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000411 ! leaf disease
+is_a: PHIDO:0000431 ! blotch
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000209
 name: leaf mold
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000411 ! leaf disease
+is_a: PHIDO:0000462 ! mold
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000210
 name: leaf scald
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000322 ! scald
+is_a: PHIDO:0000411 ! leaf disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000211
 name: leaf spot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000411 ! leaf disease
+is_a: PHIDO:0000484 ! spot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1511,22 +1639,25 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000216
-name: lettuce midrib rot
+name: obsolete lettuce midrib rot
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000460
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000217
-name: life threatening infections
+name: obsolete life threatening infections
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000218
 name: light leaf spot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000211 ! leaf spot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1553,8 +1684,10 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000222
-name: lung infections
+name: obsolete lung infections
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+replaced_by: PHIDO:0000303
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1567,57 +1700,71 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000224
-name: lyme disease
+name: Lyme disease
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000225
-name: maize anthracnose
+name: obsolete maize anthracnose
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000013
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000226
-name: maize ear rot
+name: obsolete maize ear rot
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000126
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000227
-name: maize grey leaf spot
+name: obsolete maize grey leaf spot
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000455
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000228
-name: maize leaf anthracnose
+name: obsolete maize leaf anthracnose
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000504
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000229
-name: maize leaf spot
+name: obsolete maize leaf spot
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000211
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000230
-name: maize smut
+name: obsolete maize smut
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000338
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000231
-name: maize stalk rot
+name: obsolete maize stalk rot
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000346
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1630,8 +1777,10 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000233
-name: mango anthracnose
+name: obsolete mango anthracnose
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000013
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1651,8 +1800,10 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000236
-name: melon wilt
+name: obsolete melon wilt
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000397
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1693,8 +1844,10 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000242
-name: muskmelon wilt
+name: obsolete muskmelon wilt
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000397
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1714,8 +1867,9 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000245
-name: nausea
+name: obsolete nausea
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1743,21 +1897,21 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000249
 name: neonatal meningitis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000237 ! meningitis
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000250
 name: neonatal pneumonia
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000237 ! meningitis
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000251
 name: neonatal sepsis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000237 ! meningitis
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1778,6 +1932,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000254
 name: nosocomial bacteremia
+synonym: "hospital-acquired bacteremia" EXACT []
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -1785,6 +1940,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000255
 name: nosocomial infection
+synonym: "hospital-acquired infection" EXACT []
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -1792,13 +1948,15 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000256
 name: nosocomial pneumonia
+synonym: "hospital-acquired pneumonia" EXACT []
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000257
-name: ocular diseases
+name: ocular disease
+synonym: "eye disease" EXACT []
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -1812,7 +1970,7 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000259
-name: opportunistic infections
+name: opportunistic infection
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -1820,7 +1978,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000260
 name: oral candidiasis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000071 ! candidiasis
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1834,7 +1992,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000262
 name: oropharyngeal candidiasis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000071 ! candidiasis
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1917,15 +2075,15 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000274
-name: phoma stem canker
-is_a: PHIDO:0000405 ! plant disease
+name: Phoma stem canker
+is_a: PHIDO:0000435 ! canker
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000275
-name: phytophthora blight
-is_a: PHIDO:0000405 ! plant disease
+name: Phytophthora blight
+is_a: PHIDO:0000430 ! blight
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1939,7 +2097,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000277
 name: pine wilt
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000397 ! wilt
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1967,14 +2125,14 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000281
 name: pneumonia
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000309 ! respiratory disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000282
 name: pneumonic plague
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000278 ! plague
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1994,28 +2152,35 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000285
-name: poplar anthracnose
+name: obsolete poplar anthracnose
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000013
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000286
-name: poplar bark cankers
+name: obsolete poplar bark cankers
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000425
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000287
-name: poplar leaf rust
+name: obsolete poplar leaf rust
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000459
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000288
 name: porcine pleuropneumonia
+synonym: "PPP" EXACT []
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -2029,15 +2194,17 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000290
-name: potato brown rot
+name: obsolete potato brown rot
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000064
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000291
-name: potato buckeye rot
-is_a: PHIDO:0000405 ! plant disease
+name: buckeye rot
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2050,36 +2217,43 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000293
-name: potato late blight
+name: obsolete potato late blight
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000206
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000294
-name: potato rot
+name: obsolete potato rot
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000474
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000295
-name: potato scab
+name: obsolete potato scab
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000477
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000296
 name: powdery mildew
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000461 ! mildew
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000297
-name: probiotic gut bacteria
+name: obsolete probiotic gut bacteria
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2093,7 +2267,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000299
 name: pseudomembranous colitis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000091 ! colitis
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2107,28 +2281,32 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000301
 name: pulmonary aspergillosis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000020 ! aspergillosis
+is_a: PHIDO:0000303 ! lung disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000302
-name: pulmonary cryptococcosis (lung infection)
-is_a: PHIDO:0000406 ! animal disease
+name: pulmonary cryptococcosis
+is_a: PHIDO:0000303 ! lung disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000303
-name: pulmonary diseases
-is_a: PHIDO:0000406 ! animal disease
+name: lung disease
+synonym: "pulmonary disease" EXACT []
+is_a: PHIDO:0000309 ! respiratory disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000304
-name: pulmonary infections
+name: obsolete pulmonary infections
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+replaced_by: PHIDO:0000303
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2163,56 +2341,69 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000309
 name: respiratory disease
+synonym: "respiratory infection" NARROW []
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000310
-name: respiratory illness
+name: obsolete respiratory illness
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+replaced_by: PHIDO:0000309
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000311
-name: respiratory infections
+name: obsolete respiratory infections
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+replaced_by: PHIDO:0000309
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000312
-name: rice bacterial blight
+name: obsolete rice bacterial blight
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000024
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000313
-name: rice bacterial leaf blight
+name: obsolete rice bacterial leaf blight
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000028
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000314
-name: rice bacterial leaf streak
+name: obsolete rice bacterial leaf streak
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000030
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000315
 name: rice blast
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000053 ! blast
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000316
-name: rice false smut
+name: obsolete rice false smut
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000449
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2226,21 +2417,23 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000318
 name: root rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000319
-name: rotting of tubers
+name: tuber rot
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000320
-name: rubber anthracnose
+name: obsolete rubber anthracnose
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000013
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2260,14 +2453,14 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000323
-name: sclerotinia head rot
+name: Sclerotinia head rot
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000324
-name: sclerotinia stem rot
+name: Sclerotinia stem rot
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -2275,14 +2468,14 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000325
 name: seedling blight
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000430 ! blight
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000326
 name: self-limiting gastroenteritis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000167 ! gastroenteritis
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2302,28 +2495,29 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000329
-name: septoria leaf blotch
-is_a: PHIDO:0000405 ! plant disease
+name: Septoria leaf blotch
+is_a: PHIDO:0000208 ! leaf blotch
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000330
-name: septoria nodorum blotch
-is_a: PHIDO:0000405 ! plant disease
+name: Septoria nodorum blotch
+is_a: PHIDO:0000431 ! blotch
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000331
-name: septoria tritici blotch
-is_a: PHIDO:0000405 ! plant disease
+name: Septoria tritici blotch
+is_a: PHIDO:0000431 ! blotch
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000332
 name: sexually transmitted disease
+synonym: "sexually transmitted infection" NARROW []
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -2351,15 +2545,17 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000336
-name: skin infections
+name: skin infection
+synonym: "cutaneous infection" EXACT []
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000337
-name: skin lesions
+name: obsolete skin lesions
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2386,50 +2582,57 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000341
-name: soybean root rot
+name: obsolete soybean root rot
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000318
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000342
-name: soybean stem rot
+name: obsolete soybean stem rot
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000349
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000343
-name: sporadic diarrhea
+name: obsolete sporadic diarrhea
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+consider: PHIDO:0000116
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000344
 name: spot blotch
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000411 ! leaf disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000345
-name: stagonospora nodorum blotch
-is_a: PHIDO:0000405 ! plant disease
+name: Stagonospora nodorum blotch
+is_a: PHIDO:0000431 ! blotch
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000346
 name: stalk rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000347
 name: stem canker
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000408 ! stem disease
+is_a: PHIDO:0000435 ! canker
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2437,41 +2640,46 @@ creation_date: 2019-02-27T14:11:00Z
 id: PHIDO:0000348
 name: stem necrosis
 is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000408 ! stem disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000349
 name: stem rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000408 ! stem disease
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000350
 name: stem rust
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000408 ! stem disease
+is_a: PHIDO:0000475 ! rust
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000351
 name: Stewart's wilt
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000397 ! wilt
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000352
-name: storage rots
+name: obsolete storage rots
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000353
-name: streptococcal sore throat (strep throat)
-is_a: PHIDO:0000406 ! animal disease
+name: streptococcal sore throat
+synonym: "strep throat" EXACT []
+is_a: PHIDO:0000486 ! streptococcal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2484,8 +2692,9 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000355
-name: streptococcicosis
-is_a: PHIDO:0000406 ! animal disease
+name: streptococcosis
+synonym: "streptococcicosis" EXACT []
+is_a: PHIDO:0000486 ! streptococcal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2498,8 +2707,10 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000357
-name: sugarbeet leaf spot
+name: obsolete sugarbeet leaf spot
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000211
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2513,7 +2724,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000359
 name: systemic cryptococcosis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000493 ! systemic disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2527,7 +2738,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000361
 name: tan spot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000484 ! spot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2540,35 +2751,41 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000363
-name: tobacco black shank
+name: black shank
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000364
-name: tobacco wild fire
+name: obsolete tobacco wild fire
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+replaced_by: PHIDO:0000396
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000365
-name: tomato leaf mold
+name: obsolete tomato leaf mold
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000209
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000366
-name: tomato wilt
+name: obsolete tomato wilt
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000397
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000367
-name: toppling disease
+name: blackhead toppling disease
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -2590,7 +2807,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000370
 name: toxoplasmic encephalitis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000505 ! encephalitis
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2610,7 +2827,7 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000373
-name: traveler's diarrhea
+name: Traveler's diarrhea
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -2645,7 +2862,7 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000378
-name: upper genital tract infections
+name: upper genital tract infection
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -2667,14 +2884,14 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000381
 name: vascular wilt
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000397 ! wilt
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000382
-name: verticillium wilt
-is_a: PHIDO:0000405 ! plant disease
+name: Verticillium wilt
+is_a: PHIDO:0000397 ! wilt
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2687,64 +2904,79 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000384
-name: vine blight
+name: obsolete vine blight
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000430
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000385
-name: vomiting
+name: obsolete vomiting
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000386
 name: vulvovaginal candidiasis
-is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000071 ! candidiasis
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000387
-name: wheat glume blotch
+name: obsolete wheat glume blotch
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000171
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000388
-name: wheat powdery mildew
+name: obsolete wheat powdery mildew
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000296
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000389
-name: wheat scab
+name: obsolete wheat scab
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000477
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000390
-name: wheat stagonospora nodorum blotch
+name: obsolete wheat stagonospora nodorum blotch
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000345
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000391
-name: wheat stripe rust
+name: obsolete wheat stripe rust
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000490
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000392
-name: wheat yellow rust
+name: obsolete wheat yellow rust
 is_a: PHIDO:0000405 ! plant disease
+is_obsolete: true
+consider: PHIDO:0000400
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2759,19 +2991,21 @@ creation_date: 2019-02-27T14:11:00Z
 id: PHIDO:0000394
 name: white muscardine
 is_a: PHIDO:0000406 ! animal disease
+is_a: PHIDO:0000451 ! fungal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000395
 name: white root rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000318 ! root rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000396
-name: wildfire
+name: wildfire (tobacco)
+synonym: "wild fire" EXACT []
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -2785,7 +3019,7 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000398
-name: witches' broom
+name: Witches' broom
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -2793,14 +3027,14 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000399
 name: yellow mold
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000462 ! mold
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000400
 name: yellow rust
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000475 ! rust
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2813,15 +3047,17 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000402
-name: zoonosis glanders
+name: glanders
 is_a: PHIDO:0000406 ! animal disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000403
-name: zoonosis Q fever
+name: obsolete zoonosis Q fever
 is_a: PHIDO:0000406 ! animal disease
+is_obsolete: true
+replaced_by: PHIDO:0000307
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2865,56 +3101,57 @@ id: PHIDO:0000409
 name: root disease
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
-creation_date: 2019-04-01T12:48:43Z
+creation_date: 2019-04-01T13:48:43Z
 
 [Term]
 id: PHIDO:0000410
 name: stem base disease
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
-creation_date: 2019-04-01T12:48:43Z
+creation_date: 2019-04-01T13:48:43Z
 
 [Term]
 id: PHIDO:0000411
 name: leaf disease
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
-creation_date: 2019-04-01T12:48:43Z
+creation_date: 2019-04-01T13:48:43Z
 
 [Term]
 id: PHIDO:0000412
 name: cotyledon disease
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
-creation_date: 2019-04-01T12:48:43Z
+creation_date: 2019-04-01T13:48:43Z
 
 [Term]
 id: PHIDO:0000413
 name: hypocotyl disease
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
-creation_date: 2019-04-01T12:48:43Z
+creation_date: 2019-04-01T13:48:43Z
 
 [Term]
 id: PHIDO:0000414
 name: fruit disease
+synonym: "fruit infection" NARROW []
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
-creation_date: 2019-04-01T12:48:43Z
+creation_date: 2019-04-01T13:48:43Z
 
 [Term]
 id: PHIDO:0000415
 name: pod disease
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
-creation_date: 2019-04-01T12:48:43Z
+creation_date: 2019-04-01T13:48:43Z
 
 [Term]
 id: PHIDO:0000416
 name: seed disease
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
-creation_date: 2019-04-01T12:48:43Z
+creation_date: 2019-04-01T13:48:43Z
 
 [Term]
 id: PHIDO:0000417
@@ -2922,4 +3159,630 @@ name: potato wart
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
 creation_date: 2020-03-17T14:33:43Z
+
+[Term]
+id: PHIDO:0000418
+name: acute hepatopancreatic necrosis disease
+synonym: "early mortality syndrome" EXACT []
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000419
+name: Alternaria leaf blight
+is_a: PHIDO:0000207 ! leaf blight
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000420
+name: avian colisepticemia
+is_a: PHIDO:0000442 ! colisepticemia
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000421
+name: bacterial brown stripe
+is_a: PHIDO:0000422 ! bacterial disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000422
+name: bacterial disease
+is_a: PHIDO:0000001 ! disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000423
+name: bacterial fruit blotch
+is_a: PHIDO:0000422 ! bacterial disease
+is_a: PHIDO:0000431 ! blotch
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000424
+name: bacterial sepsis
+is_a: PHIDO:0000327 ! sepsis
+is_a: PHIDO:0000422 ! bacterial disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000425
+name: bark canker
+is_a: PHIDO:0000435 ! canker
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000426
+name: bitter rot
+is_a: PHIDO:0000474 ! rot
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000427
+name: blackleg (Brassica)
+is_a: PHIDO:0000428 ! blackleg (plant)
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000428
+name: blackleg (plant)
+is_a: PHIDO:0000405 ! plant disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000429
+name: blackleg (potato)
+is_a: PHIDO:0000428 ! blackleg (plant)
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000430
+name: blight
+is_a: PHIDO:0000405 ! plant disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000431
+name: blotch
+is_a: PHIDO:0000405 ! plant disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000432
+name: blue rot
+is_a: PHIDO:0000474 ! rot
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000433
+name: Botryosphaeria canker
+is_a: PHIDO:0000435 ! canker
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000434
+name: bronchial fibrosis
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000435
+name: canker
+is_a: PHIDO:0000405 ! plant disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000436
+name: catheter-associated urinary tract infection
+synonym: "CAUTI" EXACT []
+is_a: PHIDO:0000379 ! urinary tract infection
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000437
+name: center rot
+is_a: PHIDO:0000474 ! rot
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000438
+name: Cercospora leaf blight
+is_a: PHIDO:0000207 ! leaf blight
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000439
+name: cervical lymphadenitis
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000440
+name: chorioamnionitis
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000441
+name: Citrus greening disease
+synonym: "huanglongbing" EXACT []
+is_a: PHIDO:0000405 ! plant disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000442
+name: colisepticemia
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000443
+name: colonic hyperplasia
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000444
+name: common scab
+is_a: PHIDO:0000477 ! scab
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000445
+name: community-acquired infection
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000446
+name: cryptococcal meningitis
+is_a: PHIDO:0000237 ! meningitis
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000447
+name: downy blight
+is_a: PHIDO:0000430 ! blight
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000448
+name: early blight
+is_a: PHIDO:0000430 ! blight
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000449
+name: false smut
+is_a: PHIDO:0000338 ! smut
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000450
+name: fowl typhoid
+is_a: PHIDO:0000494 ! typhoid
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000451
+name: fungal disease
+is_a: PHIDO:0000001 ! disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000452
+name: gastritis
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000453
+name: glomerulonephritis
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000454
+name: green rot
+is_a: PHIDO:0000474 ! rot
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000455
+name: grey leaf spot
+is_a: PHIDO:0000211 ! leaf spot
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000456
+name: Haemophilus influenzae disease
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000457
+name: hypertrophy sorosis scleroteniosis
+is_a: PHIDO:0000405 ! plant disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000458
+name: invasive candidiasis
+is_a: PHIDO:0000071 ! candidiasis
+is_a: PHIDO:0000202 ! invasive disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000459
+name: leaf rust
+is_a: PHIDO:0000411 ! leaf disease
+is_a: PHIDO:0000475 ! rust
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000460
+name: midrib rot
+is_a: PHIDO:0000474 ! rot
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000461
+name: mildew
+is_a: PHIDO:0000405 ! plant disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000462
+name: mold
+is_a: PHIDO:0000405 ! plant disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000463
+name: nail infection
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000464
+name: necrotizing myositis
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000465
+name: northern corn leaf blight
+is_a: PHIDO:0000207 ! leaf blight
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000466
+name: peptic ulcer disease
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000467
+name: periapical periodontitis
+is_a: PHIDO:0000269 ! periodontitis
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000468
+name: pitch canker
+is_a: PHIDO:0000435 ! canker
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000469
+name: pleuropneumonia
+is_a: PHIDO:0000309 ! respiratory disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000470
+name: pneumococcal infection
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000471
+name: pneumococcal meningitis
+is_a: PHIDO:0000237 ! meningitis
+is_a: PHIDO:0000470 ! pneumococcal infection
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000472
+name: prosthetic joint infection
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000473
+name: ring rot
+is_a: PHIDO:0000405 ! plant disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000474
+name: rot
+is_a: PHIDO:0000405 ! plant disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000475
+name: rust
+is_a: PHIDO:0000405 ! plant disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000476
+name: salpingitis
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000477
+name: scab
+is_a: PHIDO:0000405 ! plant disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000478
+name: seedling rot
+is_a: PHIDO:0000405 ! plant disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000479
+name: septicemia anserum exsudativa
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000480
+name: sheath blight
+is_a: PHIDO:0000430 ! blight
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000481
+name: skeletal disease
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000482
+name: slippery skin (onion)
+is_a: PHIDO:0000405 ! plant disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000483
+name: sporotrichosis
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000484
+name: spot
+is_a: PHIDO:0000405 ! plant disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000485
+name: stem blight
+is_a: PHIDO:0000408 ! stem disease
+is_a: PHIDO:0000430 ! blight
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000486
+name: streptococcal disease
+is_a: PHIDO:0000422 ! bacterial disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000487
+name: streptococcal pharyngitis
+is_a: PHIDO:0000273 ! pharyngitis
+is_a: PHIDO:0000486 ! streptococcal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000488
+name: streptococcal sepsis
+is_a: PHIDO:0000327 ! sepsis
+is_a: PHIDO:0000486 ! streptococcal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000489
+name: streptococcal toxic shock-like syndrome
+is_a: PHIDO:0000486 ! streptococcal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000490
+name: stripe rust
+is_a: PHIDO:0000475 ! rust
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000491
+name: subcutaneous infection
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000492
+name: systemic candidiasis
+is_a: PHIDO:0000071 ! candidiasis
+is_a: PHIDO:0000493 ! systemic disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000493
+name: systemic disease
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000494
+name: typhoid
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000495
+name: ulcerative colitis
+is_a: PHIDO:0000091 ! colitis
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000496
+name: urogenital tract infection
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000497
+name: urolithiasis
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000498
+name: vaginal infection
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000499
+name: Valsa canker
+is_a: PHIDO:0000435 ! canker
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000500
+name: yellow wilt
+is_a: PHIDO:0000397 ! wilt
+created_by: jseager7
+creation_date: 2025-07-17T00:00:00Z
+
+[Term]
+id: PHIDO:0000501
+name: hemorrhagic gastroenteritis
+is_a: PHIDO:0000167 ! gastroenteritis
+created_by: jseager7
+creation_date: 2025-07-18T14:00:00Z
+
+[Term]
+id: PHIDO:0000502
+name: necrotizing enterocolitis
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-18T14:00:00Z
+
+[Term]
+id: PHIDO:0000503
+name: implant-associated infection
+is_a: PHIDO:0000406 ! animal disease
+created_by: jseager7
+creation_date: 2025-07-18T14:00:00Z
+
+[Term]
+id: PHIDO:0000504
+name: leaf anthracnose
+is_a: PHIDO:0000411 ! leaf disease
+created_by: jseager7
+creation_date: 2025-07-22T12:45:36Z
+
+[Term]
+id: PHIDO:0000505
+name: encephalitis
+is_a: PHIDO:0000406 ! animal disease
 
