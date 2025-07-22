@@ -83,7 +83,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000002 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000002">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete abortion</rdfs:label>
@@ -95,7 +94,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000003 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000003">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000168"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -108,7 +106,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000004 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000004">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000167"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -132,7 +129,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000006 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000006">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000190"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -222,7 +218,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000014 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000014">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000013"/>
         <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000211"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
@@ -280,7 +275,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000019 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000019">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000430"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000430"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -304,7 +298,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000021 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000021">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete asymptomatic colonization</rdfs:label>
@@ -501,7 +494,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000038 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000038">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000210"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -514,7 +506,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000039 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000039">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000296"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -527,7 +518,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000040 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000040">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000338"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -540,7 +530,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000041 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000041">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000485"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -575,7 +564,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000044 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000044">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000065"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -588,7 +576,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000045 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000045">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete biocontrol: non pathogenic</rdfs:label>
@@ -700,7 +687,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000055 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000055">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000054"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -713,7 +699,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000056 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000056">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000116"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -748,7 +733,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000059 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000059">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000058"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000474"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
@@ -918,7 +902,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000074 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000074">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000024"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -986,7 +969,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000080 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000080">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000430"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1010,7 +992,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000082 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000082">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000503"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1023,7 +1004,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000083 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000083">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000047"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1036,7 +1016,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000084 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000084">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000065"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1049,7 +1028,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000085 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000085">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000435"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1062,7 +1040,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000086 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000086">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000174"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1251,7 +1228,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000103 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000103">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000013"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1286,7 +1262,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000106 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000106">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000013"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1299,7 +1274,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000107 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000107">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000164"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1411,7 +1385,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000117 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000117">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000116"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1435,7 +1408,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000119 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000119">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000481"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1527,7 +1499,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000127 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000127">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000448"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1540,7 +1511,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000128 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000128">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete early ripening</rdfs:label>
@@ -1552,7 +1522,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000129 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000129">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete early senescence</rdfs:label>
@@ -1586,7 +1555,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000132 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000132">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000168"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1667,7 +1635,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000139 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000139">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete epizootic infectious disease</rdfs:label>
@@ -1701,7 +1668,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000142 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000142">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete extraintestinal infections</rdfs:label>
@@ -1724,7 +1690,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000144 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000144">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000501"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1737,7 +1702,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000145 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000145">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000502"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1750,7 +1714,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000146 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000146">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000328"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1796,7 +1759,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000150 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000150">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000430"/>
         <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000207"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1809,7 +1771,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000151 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000151">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000411"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1822,7 +1783,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000152 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000152">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000168"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1835,7 +1795,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000153 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000153">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete foodborne outbreaks</rdfs:label>
@@ -1869,7 +1828,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000156 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000156">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000414"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -1951,7 +1909,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000163 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000163">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000162"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2068,7 +2025,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000173 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000173">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete granuloma</rdfs:label>
@@ -2091,7 +2047,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000175 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000175">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000174"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2104,7 +2059,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000176 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000176">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000174"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2161,7 +2115,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000181 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000181">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000168"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2185,7 +2138,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000183 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000183">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000255"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2198,7 +2150,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000184 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000184">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete hemolymph bleeding</rdfs:label>
@@ -2255,7 +2206,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000189 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000189">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000255"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2302,7 +2252,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000193 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000193">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete immunosuppression</rdfs:label>
@@ -2358,7 +2307,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000198 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000198">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete infertility</rdfs:label>
@@ -2566,7 +2514,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000216 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000216">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000460"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2579,7 +2526,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000217 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000217">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete life threatening infections</rdfs:label>
@@ -2635,7 +2581,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000222 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000222">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000303"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2670,7 +2615,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000225 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000225">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000013"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2683,7 +2627,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000226 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000226">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000126"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2696,7 +2639,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000227 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000227">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000455"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2709,7 +2651,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000228 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000228">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000504"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2722,7 +2663,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000229 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000229">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000211"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2735,7 +2675,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000230 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000230">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000338"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2748,7 +2687,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000231 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000231">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000346"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2772,7 +2710,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000233 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000233">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000013"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2807,7 +2744,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000236 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000236">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000397"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2875,7 +2811,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000242 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000242">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000397"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -2910,7 +2845,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000245 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000245">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete nausea</rdfs:label>
@@ -3355,7 +3289,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000285 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000285">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000013"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -3368,7 +3301,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000286 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000286">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000425"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -3381,7 +3313,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000287 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000287">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000459"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -3417,7 +3348,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000290 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000290">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000064"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -3452,7 +3382,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000293 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000293">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000206"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -3465,7 +3394,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000294 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000294">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000474"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -3478,7 +3406,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000295 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000295">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000477"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -3502,7 +3429,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000297 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000297">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete probiotic gut bacteria</rdfs:label>
@@ -3582,7 +3508,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000304 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000304">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000303"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -3651,7 +3576,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000310 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000310">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000309"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -3664,7 +3588,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000311 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000311">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000309"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -3677,7 +3600,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000312 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000312">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000024"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -3690,7 +3612,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000313 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000313">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000028"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -3703,7 +3624,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000314 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000314">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000030"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -3727,7 +3647,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000316 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000316">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000449"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -3773,7 +3692,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000320 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000320">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000013"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -3967,7 +3885,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000337 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000337">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete skin lesions</rdfs:label>
@@ -4012,7 +3929,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000341 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000341">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000318"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -4025,7 +3941,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000342 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000342">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000349"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -4038,7 +3953,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000343 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000343">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000116"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -4144,7 +4058,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000352 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000352">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete storage rots</rdfs:label>
@@ -4202,7 +4115,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000357 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000357">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000211"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -4281,7 +4193,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000364 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000364">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000396"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -4294,7 +4205,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000365 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000365">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000209"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -4307,7 +4217,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000366 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000366">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000397"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -4507,7 +4416,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000384 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000384">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000430"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -4520,7 +4428,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000385 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000385">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>obsolete vomiting</rdfs:label>
@@ -4543,7 +4450,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000387 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000387">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000171"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -4556,7 +4462,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000388 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000388">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000296"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -4569,7 +4474,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000389 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000389">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000477"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -4582,7 +4486,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000390 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000390">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000345"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -4595,7 +4498,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000391 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000391">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000490"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -4608,7 +4510,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000392 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000392">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:consider rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000400"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -4733,7 +4634,6 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000403 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000403">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000307"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>

@@ -13,7 +13,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000002
 name: obsolete abortion
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -21,7 +20,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000003
 name: obsolete acute enteric disease
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 consider: PHIDO:0000168
 created_by: alaynecuzick
@@ -30,7 +28,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000004
 name: obsolete acute gastroenteritis
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 consider: PHIDO:0000167
 created_by: alaynecuzick
@@ -46,7 +43,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000006
 name: obsolete african sleeping sickness
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 replaced_by: PHIDO:0000190
 created_by: alaynecuzick
@@ -104,7 +100,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000014
 name: obsolete anthracnose leaf spot
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 replaced_by: PHIDO:0000013
 replaced_by: PHIDO:0000211
@@ -142,7 +137,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000019
 name: obsolete Ascochyta blight
-is_a: PHIDO:0000430 ! blight
 is_obsolete: true
 consider: PHIDO:0000430
 created_by: alaynecuzick
@@ -158,7 +152,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000021
 name: obsolete asymptomatic colonization
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -287,7 +280,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000038
 name: obsolete barley leaf scald
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000210
 created_by: alaynecuzick
@@ -296,7 +288,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000039
 name: obsolete barley powdery mildew
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000296
 created_by: alaynecuzick
@@ -305,7 +296,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000040
 name: obsolete barley smut
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000338
 created_by: alaynecuzick
@@ -314,7 +304,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000041
 name: obsolete barley stem blight
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000485
 created_by: alaynecuzick
@@ -337,7 +326,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000044
 name: obsolete bean brown spot
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000065
 created_by: alaynecuzick
@@ -346,7 +334,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000045
 name: obsolete biocontrol: non pathogenic
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -418,7 +405,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000055
 name: obsolete bloodstream infection
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 replaced_by: PHIDO:0000054
 created_by: alaynecuzick
@@ -427,7 +413,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000056
 name: obsolete bloody diarrhea
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 consider: PHIDO:0000116
 created_by: alaynecuzick
@@ -450,7 +435,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000059
 name: obsolete blue mold rot
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000058
 consider: PHIDO:0000474
@@ -560,7 +544,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000074
 name: obsolete cassava bacterial blight
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000024
 created_by: alaynecuzick
@@ -604,7 +587,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000080
 name: obsolete chestnut blight
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000430
 created_by: alaynecuzick
@@ -620,7 +602,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000082
 name: obsolete chronic implant-associated infections
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 consider: PHIDO:0000503
 created_by: alaynecuzick
@@ -629,7 +610,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000083
 name: obsolete citrus black rot
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000047
 created_by: alaynecuzick
@@ -638,7 +618,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000084
 name: obsolete citrus brown spot
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000065
 created_by: alaynecuzick
@@ -647,7 +626,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000085
 name: obsolete citrus canker
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000435
 created_by: alaynecuzick
@@ -656,7 +634,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000086
 name: obsolete citrus green mold
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000174
 created_by: alaynecuzick
@@ -777,7 +754,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000103
 name: obsolete crucifer anthracnose
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000013
 created_by: alaynecuzick
@@ -800,7 +776,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000106
 name: obsolete cucumber anthracnose
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000013
 created_by: alaynecuzick
@@ -809,7 +784,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000107
 name: obsolete cucumber fusarium wilt
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000164
 created_by: alaynecuzick
@@ -881,7 +855,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000117
 name: obsolete diarrheal diseases
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 consider: PHIDO:0000116
 created_by: alaynecuzick
@@ -897,7 +870,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000119
 name: obsolete diseases of the skeletal system in children
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 consider: PHIDO:0000481
 created_by: alaynecuzick
@@ -957,7 +929,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000127
 name: obsolete early blight of potato
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000448
 created_by: alaynecuzick
@@ -966,7 +937,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000128
 name: obsolete early ripening
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -974,7 +944,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000129
 name: obsolete early senescence
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -996,7 +965,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000132
 name: obsolete enteric diseases
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 replaced_by: PHIDO:0000168
 created_by: alaynecuzick
@@ -1049,7 +1017,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000139
 name: obsolete epizootic infectious disease
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -1071,7 +1038,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000142
 name: obsolete extraintestinal infections
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -1086,7 +1052,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000144
 name: obsolete fatal canine hemorrhagic gastroenteritis
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 consider: PHIDO:0000501
 created_by: alaynecuzick
@@ -1095,7 +1060,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000145
 name: obsolete fatal foal necrotizing enterocolitis
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 consider: PHIDO:0000502
 created_by: alaynecuzick
@@ -1104,7 +1068,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000146
 name: obsolete fatal septicemia
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 consider: PHIDO:0000328
 created_by: alaynecuzick
@@ -1134,7 +1097,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000150
 name: obsolete foliar blight
-is_a: PHIDO:0000430 ! blight
 is_obsolete: true
 replaced_by: PHIDO:0000207
 created_by: alaynecuzick
@@ -1143,7 +1105,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000151
 name: obsolete foliar infection
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 replaced_by: PHIDO:0000411
 created_by: alaynecuzick
@@ -1152,7 +1113,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000152
 name: obsolete food poisoning
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 consider: PHIDO:0000168
 created_by: alaynecuzick
@@ -1161,7 +1121,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000153
 name: obsolete foodborne outbreaks
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -1183,7 +1142,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000156
 name: obsolete fruit infection
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 replaced_by: PHIDO:0000414
 created_by: alaynecuzick
@@ -1237,7 +1195,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000163
 name: obsolete fusarium head blight
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 replaced_by: PHIDO:0000162
 created_by: alaynecuzick
@@ -1314,7 +1271,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000173
 name: obsolete granuloma
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -1329,7 +1285,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000175
 name: obsolete green mold decay
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000174
 created_by: alaynecuzick
@@ -1338,7 +1293,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000176
 name: obsolete green mold rot
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000174
 created_by: alaynecuzick
@@ -1375,7 +1329,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000181
 name: obsolete gut-associated diseases
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 consider: PHIDO:0000168
 created_by: alaynecuzick
@@ -1391,7 +1344,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000183
 name: obsolete healthcare-associated bacterial infection
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 consider: PHIDO:0000255
 created_by: alaynecuzick
@@ -1400,7 +1352,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000184
 name: obsolete hemolymph bleeding
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -1437,7 +1388,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000189
 name: obsolete hospital-acquired infection
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 replaced_by: PHIDO:0000255
 created_by: alaynecuzick
@@ -1468,7 +1418,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000193
 name: obsolete immunosuppression
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -1504,7 +1453,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000198
 name: obsolete infertility
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -1640,7 +1588,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000216
 name: obsolete lettuce midrib rot
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000460
 created_by: alaynecuzick
@@ -1649,7 +1596,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000217
 name: obsolete life threatening infections
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -1685,7 +1631,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000222
 name: obsolete lung infections
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 replaced_by: PHIDO:0000303
 created_by: alaynecuzick
@@ -1708,7 +1653,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000225
 name: obsolete maize anthracnose
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000013
 created_by: alaynecuzick
@@ -1717,7 +1661,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000226
 name: obsolete maize ear rot
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000126
 created_by: alaynecuzick
@@ -1726,7 +1669,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000227
 name: obsolete maize grey leaf spot
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000455
 created_by: alaynecuzick
@@ -1735,7 +1677,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000228
 name: obsolete maize leaf anthracnose
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000504
 created_by: alaynecuzick
@@ -1744,7 +1685,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000229
 name: obsolete maize leaf spot
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000211
 created_by: alaynecuzick
@@ -1753,7 +1693,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000230
 name: obsolete maize smut
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000338
 created_by: alaynecuzick
@@ -1762,7 +1701,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000231
 name: obsolete maize stalk rot
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000346
 created_by: alaynecuzick
@@ -1778,7 +1716,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000233
 name: obsolete mango anthracnose
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000013
 created_by: alaynecuzick
@@ -1801,7 +1738,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000236
 name: obsolete melon wilt
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000397
 created_by: alaynecuzick
@@ -1845,7 +1781,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000242
 name: obsolete muskmelon wilt
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000397
 created_by: alaynecuzick
@@ -1868,7 +1803,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000245
 name: obsolete nausea
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -2153,7 +2087,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000285
 name: obsolete poplar anthracnose
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000013
 created_by: alaynecuzick
@@ -2162,7 +2095,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000286
 name: obsolete poplar bark cankers
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000425
 created_by: alaynecuzick
@@ -2171,7 +2103,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000287
 name: obsolete poplar leaf rust
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000459
 created_by: alaynecuzick
@@ -2195,7 +2126,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000290
 name: obsolete potato brown rot
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000064
 created_by: alaynecuzick
@@ -2218,7 +2148,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000293
 name: obsolete potato late blight
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000206
 created_by: alaynecuzick
@@ -2227,7 +2156,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000294
 name: obsolete potato rot
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000474
 created_by: alaynecuzick
@@ -2236,7 +2164,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000295
 name: obsolete potato scab
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000477
 created_by: alaynecuzick
@@ -2252,7 +2179,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000297
 name: obsolete probiotic gut bacteria
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -2304,7 +2230,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000304
 name: obsolete pulmonary infections
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 replaced_by: PHIDO:0000303
 created_by: alaynecuzick
@@ -2349,7 +2274,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000310
 name: obsolete respiratory illness
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 replaced_by: PHIDO:0000309
 created_by: alaynecuzick
@@ -2358,7 +2282,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000311
 name: obsolete respiratory infections
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 replaced_by: PHIDO:0000309
 created_by: alaynecuzick
@@ -2367,7 +2290,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000312
 name: obsolete rice bacterial blight
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000024
 created_by: alaynecuzick
@@ -2376,7 +2298,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000313
 name: obsolete rice bacterial leaf blight
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000028
 created_by: alaynecuzick
@@ -2385,7 +2306,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000314
 name: obsolete rice bacterial leaf streak
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000030
 created_by: alaynecuzick
@@ -2401,7 +2321,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000316
 name: obsolete rice false smut
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000449
 created_by: alaynecuzick
@@ -2431,7 +2350,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000320
 name: obsolete rubber anthracnose
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000013
 created_by: alaynecuzick
@@ -2557,7 +2475,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000337
 name: obsolete skin lesions
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -2586,7 +2503,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000341
 name: obsolete soybean root rot
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000318
 created_by: alaynecuzick
@@ -2595,7 +2511,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000342
 name: obsolete soybean stem rot
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000349
 created_by: alaynecuzick
@@ -2604,7 +2519,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000343
 name: obsolete sporadic diarrhea
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 consider: PHIDO:0000116
 created_by: alaynecuzick
@@ -2674,7 +2588,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000352
 name: obsolete storage rots
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -2712,7 +2625,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000357
 name: obsolete sugarbeet leaf spot
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000211
 created_by: alaynecuzick
@@ -2763,7 +2675,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000364
 name: obsolete tobacco wild fire
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 replaced_by: PHIDO:0000396
 created_by: alaynecuzick
@@ -2772,7 +2683,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000365
 name: obsolete tomato leaf mold
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000209
 created_by: alaynecuzick
@@ -2781,7 +2691,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000366
 name: obsolete tomato wilt
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000397
 created_by: alaynecuzick
@@ -2909,7 +2818,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000384
 name: obsolete vine blight
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000430
 created_by: alaynecuzick
@@ -2918,7 +2826,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000385
 name: obsolete vomiting
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -2933,7 +2840,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000387
 name: obsolete wheat glume blotch
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000171
 created_by: alaynecuzick
@@ -2942,7 +2848,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000388
 name: obsolete wheat powdery mildew
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000296
 created_by: alaynecuzick
@@ -2951,7 +2856,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000389
 name: obsolete wheat scab
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000477
 created_by: alaynecuzick
@@ -2960,7 +2864,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000390
 name: obsolete wheat stagonospora nodorum blotch
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000345
 created_by: alaynecuzick
@@ -2969,7 +2872,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000391
 name: obsolete wheat stripe rust
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000490
 created_by: alaynecuzick
@@ -2978,7 +2880,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000392
 name: obsolete wheat yellow rust
-is_a: PHIDO:0000405 ! plant disease
 is_obsolete: true
 consider: PHIDO:0000400
 created_by: alaynecuzick
@@ -3059,7 +2960,6 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000403
 name: obsolete zoonosis Q fever
-is_a: PHIDO:0000406 ! animal disease
 is_obsolete: true
 replaced_by: PHIDO:0000307
 created_by: alaynecuzick
