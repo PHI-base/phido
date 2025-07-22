@@ -2496,6 +2496,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000329
 name: Septoria leaf blotch
+synonym: "Septoria tritici blotch" EXACT []
 is_a: PHIDO:0000208 ! leaf blotch
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -2510,8 +2511,9 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000331
-name: Septoria tritici blotch
-is_a: PHIDO:0000431 ! blotch
+name: obsolete Septoria tritici blotch
+is_obsolete: true
+replaced_by: PHIDO:0000329
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
