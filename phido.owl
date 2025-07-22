@@ -3885,10 +3885,11 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000330 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000330">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000431"/>
+        <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000345"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
-        <rdfs:label>Septoria nodorum blotch</rdfs:label>
+        <rdfs:label>obsolete Septoria nodorum blotch</rdfs:label>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -4062,6 +4063,7 @@
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000431"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
+        <oboInOwl:hasExactSynonym>Septoria nodorum blotch</oboInOwl:hasExactSynonym>
         <rdfs:label>Stagonospora nodorum blotch</rdfs:label>
     </owl:Class>
     

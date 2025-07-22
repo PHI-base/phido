@@ -2502,8 +2502,9 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000330
-name: Septoria nodorum blotch
-is_a: PHIDO:0000431 ! blotch
+name: obsolete Septoria nodorum blotch
+is_obsolete: true
+replaced_by: PHIDO:0000345
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2617,6 +2618,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000345
 name: Stagonospora nodorum blotch
+synonym: "Septoria nodorum blotch" EXACT []
 is_a: PHIDO:0000431 ! blotch
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
