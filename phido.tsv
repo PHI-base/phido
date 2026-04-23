@@ -1,0 +1,507 @@
+IRI	Label	Definition	Subclass of	Exact synonyms	Broad synonyms	Narrow synonyms	Related synonyms	Deprecated	Replaced by	Consider	Created by	Creation date
+ID	LABEL	A obo:IAO_0000115	SC % SPLIT=,	A oboInOwl:hasExactSynonym SPLIT=,	A oboInOwl:hasBroadSynonym SPLIT=,	A oboInOwl:hasNarrowSynonym SPLIT=,	A oboInOwl:hasRelatedSynonym SPLIT=,	AT owl:deprecated^^xsd:boolean	AI obo:IAO_0100001 SPLIT=,	AI oboInOwl:consider SPLIT=,	AT oboInOwl:created_by^^xsd:string	AT oboInOwl:creation_date^^xsd:dateTime
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000002	obsolete abortion							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000003	obsolete acute enteric disease							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000168	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000004	obsolete acute gastroenteritis							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000167	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000006	obsolete african sleeping sickness							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000190		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000014	obsolete anthracnose leaf spot							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000013,http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000211		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000019	obsolete Ascochyta blight							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000430	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000021	obsolete asymptomatic colonization							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000038	obsolete barley leaf scald							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000210	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000039	obsolete barley powdery mildew							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000296	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000040	obsolete barley smut							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000338	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000041	obsolete barley stem blight							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000485	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000044	obsolete bean brown spot							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000065	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000045	obsolete biocontrol: non pathogenic							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000055	obsolete bloodstream infection							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000054		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000056	obsolete bloody diarrhea							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000116	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000059	obsolete blue mold rot							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000058,http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000474	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000074	obsolete cassava bacterial blight							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000024	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000080	obsolete chestnut blight							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000430	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000082	obsolete chronic implant-associated infections							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000503	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000083	obsolete citrus black rot							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000047	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000084	obsolete citrus brown spot							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000065	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000085	obsolete citrus canker							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000435	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000086	obsolete citrus green mold							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000174	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000103	obsolete crucifer anthracnose							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000013	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000106	obsolete cucumber anthracnose							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000013	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000107	obsolete cucumber fusarium wilt							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000164	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000117	obsolete diarrheal diseases							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000116	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000119	obsolete diseases of the skeletal system in children							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000481	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000127	obsolete early blight of potato							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000448	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000128	obsolete early ripening							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000129	obsolete early senescence							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000132	obsolete enteric diseases							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000168		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000139	obsolete epizootic infectious disease							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000142	obsolete extraintestinal infections							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000144	obsolete fatal canine hemorrhagic gastroenteritis							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000501	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000145	obsolete fatal foal necrotizing enterocolitis							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000502	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000146	obsolete fatal septicemia							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000328	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000150	obsolete foliar blight							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000207		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000151	obsolete foliar infection							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000411		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000152	obsolete food poisoning							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000168	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000153	obsolete foodborne outbreaks							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000156	obsolete fruit infection							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000414		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000163	obsolete fusarium head blight							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000162		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000165	obsolete gastric disease					gastric infection		true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000168		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000173	obsolete granuloma							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000175	obsolete green mold decay							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000174	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000176	obsolete green mold rot							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000174	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000181	obsolete gut-associated diseases							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000168	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000183	obsolete healthcare-associated bacterial infection							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000255	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000184	obsolete hemolymph bleeding							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000189	obsolete hospital-acquired infection							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000255		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000193	obsolete immunosuppression							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000198	obsolete infertility							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000216	obsolete lettuce midrib rot							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000460	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000217	obsolete life threatening infections							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000222	obsolete lung infections							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000303		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000225	obsolete maize anthracnose							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000013	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000226	obsolete maize ear rot							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000126	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000227	obsolete maize grey leaf spot							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000455	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000228	obsolete maize leaf anthracnose							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000504	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000229	obsolete maize leaf spot							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000211	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000230	obsolete maize smut							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000338	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000231	obsolete maize stalk rot							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000346	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000233	obsolete mango anthracnose							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000013	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000236	obsolete melon wilt							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000397	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000242	obsolete muskmelon wilt							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000397	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000245	obsolete nausea							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000285	obsolete poplar anthracnose							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000013	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000286	obsolete poplar bark cankers							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000425	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000287	obsolete poplar leaf rust							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000459	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000290	obsolete potato brown rot							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000064	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000293	obsolete potato late blight							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000206	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000294	obsolete potato rot							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000474	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000295	obsolete potato scab							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000477	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000297	obsolete probiotic gut bacteria							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000304	obsolete pulmonary infections							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000303		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000310	obsolete respiratory illness							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000309		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000311	obsolete respiratory infections							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000309		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000312	obsolete rice bacterial blight							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000024	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000313	obsolete rice bacterial leaf blight							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000028	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000314	obsolete rice bacterial leaf streak							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000030	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000316	obsolete rice false smut							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000449	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000320	obsolete rubber anthracnose							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000013	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000337	obsolete skin lesions							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000341	obsolete soybean root rot							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000318	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000342	obsolete soybean stem rot							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000349	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000343	obsolete sporadic diarrhea							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000116	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000352	obsolete storage rots							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000357	obsolete sugarbeet leaf spot							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000211	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000364	obsolete tobacco wild fire							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000396		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000365	obsolete tomato leaf mold							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000209	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000366	obsolete tomato wilt							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000397	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000384	obsolete vine blight							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000430	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000385	obsolete vomiting							true			alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000387	obsolete wheat glume blotch							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000171	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000388	obsolete wheat powdery mildew							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000296	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000389	obsolete wheat scab							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000477	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000390	obsolete wheat stagonospora nodorum blotch							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000345	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000391	obsolete wheat stripe rust							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000490	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000392	obsolete wheat yellow rust							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000400	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000403	obsolete zoonosis Q fever							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000307		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000330	obsolete Septoria nodorum blotch							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000345		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000331	obsolete Septoria tritici blotch							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000329		alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000001	disease										alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000005	aflatoxicosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000007	agalactia syndrome		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000008	airsacculitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000009	Alternaria brown spot		spot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000010	Alternaria leaf blotch		leaf blotch								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000011	American foulbrood		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000012	angular leaf spot		leaf spot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000013	anthracnose		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000015	anthrax		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000016	apple scab		scab								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000017	arthritis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000018	ascending pyelonephritis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000020	aspergillosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000022	avian colibacillosis		colibacillosis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000023	bacteremia		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000024	bacterial blight		bacterial disease,blight								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000025	bacterial canker		bacterial disease,canker								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000026	bacterial cold water disease		bacterial disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000027	bacterial grain rot		bacterial disease,rot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000028	bacterial leaf blight		leaf blight,bacterial blight								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000029	bacterial leaf spot		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000030	bacterial leaf streak		bacterial disease,leaf disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000031	bacterial midrib rot		bacterial disease,rot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000032	bacterial panicle blight		panicle blight,bacterial disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000033	bacterial speck		bacterial disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000034	bacterial spot		spot,bacterial disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000035	bacterial wilt		wilt								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000036	bakanae		plant disease	foolish seedling							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000037	banana fusarium wilt		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000042	basal meningitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000043	basal plate rot		rot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000046	black leaf mold		leaf mold								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000047	black rot		rot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000048	black sigatoka		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000049	black spot		spot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000050	blackhead disease		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000051	blackleg		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000052	blackpoint		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000053	blast		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000054	blood infection		animal disease	bloodstream infection							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000057	blossom blight		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000058	blue mold		mold								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000060	bordetellosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000061	bovine mastitis		mastitis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000062	brown blotch		blotch								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000063	brown leaf spot		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000064	brown rot		rot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000065	brown spot		spot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000066	brucellosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000067	bubonic plague		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000068	butt rot		rot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000069	campylobacteriosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000070	candidemia		animal disease,fungal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000071	candidiasis		animal disease,fungal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000072	canker stain		canker								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000073	caseous salpingitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000075	cellulitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000076	cerebral cryptococcomas		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000077	cerebral malaria		malaria								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000078	Chagas disease		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000079	chancroid		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000081	cholera		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000087	Citrus variegated chlorosis		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000088	clostridial myonecrosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000089	coccidioidomycosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000090	colibacillosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000091	colitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000092	collar rot		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000093	common root rot		root rot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000094	contagious agalactia		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000095	corky root rot		root rot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000096	corn smut		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000097	corneal infection		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000098	covered smut		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000099	Crohn's disease		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000100	crown gall		crown infection								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000101	crown infection		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000102	crown rot		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000104	cryptococcal meningoencephalitis		meningoencephalitis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000105	cryptococcosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000108	Curvularia leaf spot		leaf spot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000109	mucocutaneous infection		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000110	cystic fibrosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000111	cystic fibrosis-like conditions		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000112	cystitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000113	deaths in neonates		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000114	denture stomatitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000115	dermatophytosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000116	diarrhea		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000118	diphtheria		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000120	disseminated candidiasis		disseminated disease,candidiasis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000121	disseminated cryptococcosis		disseminated disease,cryptococcosis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000122	disseminated disease		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000123	Dothistroma needle blight		blight								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000124	downy mildew		mildew								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000125	dry bubble		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000126	ear rot		rot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000130	edwardsiellosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000131	endocarditis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000133	typhoid fever		animal disease	enteric fever							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000134	enteric redmouth disease		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000135	enteric septicemia		gastrointestinal disease,septicemia								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000136	enteritis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000137	enterococcal endocarditis		endocarditis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000138	enterotoxemia		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000140	ergot		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000141	erythematous candidiasis		candidiasis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000143	Far East scarlet-like fever		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000147	fibrinous serositis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000148	fire blight		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000149	flax rust		rust								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000154	foolish seedling		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000155	frog-eye leaf spot		leaf spot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000157	fruit rot		rot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000158	fungal keratitis		keratitis,fungal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000159	fungal meningitis		meningitis,fungal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000160	furunculosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000161	Fusarium crown rot		rot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000162	Fusarium ear blight		blight	Fusarium head blight							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000164	Fusarium wilt		wilt								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000166	gastric pharyngitis		gastrointestinal disease,pharyngitis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000167	gastroenteritis		gastrointestinal disease			gastric infection					alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000168	gastrointestinal disease		animal disease	enteric disease							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000169	genital tract infection		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000170	Glasser's disease		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000171	glume blotch		blotch								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000172	gonorrhea		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000174	green mold		mold								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000177	green muscardine		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000178	grey mold		mold								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000179	group A streptococcal infection		streptococcal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000180	group B streptococcal infection		streptococcal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000182	halo blight		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000185	hemolytic uremic syndrome		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000186	hemorrhagic colitis		colitis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000187	hemorrhagic septicemia		septicemia								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000188	histoplasmosis		lung disease,fungal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000190	African trypanosomiasis		animal disease	African sleeping sickness							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000191	gas gangrene		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000192	hydrosalpinx		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000194	impetigo		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000195	infectious bronchitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000196	infectious coryza		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000197	infective endocarditis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000199	intestinal disease		animal disease			intestinal infection					alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000200	intra-abdominal infection		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000201	invasive aspergillosis		aspergillosis,invasive disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000202	invasive disease		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000203	invasive pulmonary aspergillosis		pulmonary aspergillosis,invasive disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000204	keratitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000205	keratoconjunctivitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000206	late blight		blight								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000207	leaf blight		blight,leaf disease	foliar blight							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000208	leaf blotch		blotch,leaf disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000209	leaf mold		mold,leaf disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000210	leaf scald		scald,leaf disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000211	leaf spot		spot,leaf disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000212	legionellosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000213	Legionnaires' disease		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000214	leishmaniasis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000215	leptospirosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000218	light leaf spot		leaf spot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000219	listeriosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000220	luminescent vibriosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000221	luminous vibriosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000223	lyme borreliosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000224	Lyme disease		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000232	malaria		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000234	mastitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000235	melioidosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000237	meningitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000238	meningococcal infection		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000239	meningoencephalitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000240	mucormycosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000241	murine colonic hyperplasia		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000243	mycosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000244	mycotic mastitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000246	necrotic enteritis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000247	necrotic leaf spots		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000248	necrotizing fasciitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000249	neonatal meningitis		meningitis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000250	neonatal pneumonia		meningitis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000251	neonatal sepsis		meningitis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000252	net blotch		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000253	northern leaf blight		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000254	nosocomial bacteremia		animal disease	hospital-acquired bacteremia							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000255	nosocomial infection		animal disease	hospital-acquired infection							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000256	nosocomial pneumonia		animal disease	hospital-acquired pneumonia							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000257	ocular disease		animal disease	eye disease							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000258	olive knot		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000259	opportunistic infection		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000260	oral candidiasis		candidiasis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000261	oral mucosa infection		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000262	oropharyngeal candidiasis		candidiasis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000263	osteomyelitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000264	otitis media		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000265	ovine brucellosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000266	panicle blight		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000267	paracoccidioidomycosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000268	pasteurellosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000269	periodontitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000270	peritonitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000271	pertussis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000272	phaeohyphomycosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000273	pharyngitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000274	Phoma stem canker		canker								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000275	Phytophthora blight		blight								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000276	Pierce's disease of grapes		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000277	pine wilt		wilt								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000278	plague		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000279	plane canker stain		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000280	pneumococcal pneumonia		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000281	pneumonia		respiratory disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000282	pneumonic plague		plague								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000283	pneumonitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000284	pokkah boeng		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000288	porcine pleuropneumonia		animal disease	PPP							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000289	postpartum infection		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000291	buckeye rot		rot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000292	potato cyst		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000296	powdery mildew		mildew								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000298	pseudobacteremia		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000299	pseudomembranous colitis		colitis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000300	pullorum disease		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000301	pulmonary aspergillosis		aspergillosis,lung disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000302	pulmonary cryptococcosis		lung disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000303	lung disease		respiratory disease	pulmonary disease							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000305	purple seed stain		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000306	pyelonephritis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000307	Q fever		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000308	relapsing fever		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000309	respiratory disease		animal disease			respiratory infection					alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000315	rice blast		blast								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000317	ringworm		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000318	root rot		rot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000319	tuber rot		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000321	salmonellosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000322	scald		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000323	Sclerotinia head rot		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000324	Sclerotinia stem rot		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000325	seedling blight		blight								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000326	self-limiting gastroenteritis		gastroenteritis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000327	sepsis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000328	septicemia		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000329	Septoria leaf blotch		leaf blotch	Septoria tritici blotch							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000332	sexually transmitted disease		animal disease			sexually transmitted infection					alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000333	sheath brown rot		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000334	shigellosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000335	sinusitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000336	skin infection		animal disease	cutaneous infection							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000338	smut		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000339	soft rot		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000340	southern corn leaf blight		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000344	spot blotch		leaf disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000345	Stagonospora nodorum blotch		blotch	Septoria nodorum blotch							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000346	stalk rot		rot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000347	stem canker		canker,stem disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000348	stem necrosis		plant disease,stem disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000349	stem rot		rot,stem disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000350	stem rust		rust,stem disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000351	Stewart's wilt		wilt								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000353	streptococcal sore throat		streptococcal disease	strep throat							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000354	streptococcal toxic shock syndrome		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000355	streptococcosis		streptococcal disease	streptococcicosis							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000356	sudden death syndrome		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000358	swollen head syndrome		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000359	systemic cryptococcosis		systemic disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000360	take-all		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000361	tan spot		spot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000362	tick-borne relapsing fever		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000363	black shank		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000367	blackhead toppling disease		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000368	toxic megacolon		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000369	toxic shock syndrome		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000370	toxoplasmic encephalitis		encephalitis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000371	toxoplasmosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000372	tracheitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000373	Traveler's diarrhea		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000374	tuberculosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000375	tularemia		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000376	typhoid-like disease		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000377	ulcer disease		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000378	upper genital tract infection		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000379	urinary tract infection		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000380	vaginal candidiasis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000381	vascular wilt		wilt								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000382	Verticillium wilt		wilt								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000383	vibriosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000386	vulvovaginal candidiasis		candidiasis								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000393	white mold		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000394	white muscardine		animal disease,fungal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000395	white root rot		root rot								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000396	wildfire (tobacco)		plant disease	wild fire							alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000397	wilt		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000398	Witches' broom		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000399	yellow mold		mold								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000400	yellow rust		rust								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000401	yersiniosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000402	glanders		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000404	zoonotic infection		animal disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405	plant disease		disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406	animal disease		disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000407	floral disease		plant disease								alaynecuzick	2019-03-18T11:15:24Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000408	stem disease		plant disease								alaynecuzick	2019-03-18T11:16:21Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000409	root disease		plant disease								alaynecuzick	2019-04-01T13:48:43Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000410	stem base disease		plant disease								alaynecuzick	2019-04-01T13:48:43Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000411	leaf disease		plant disease								alaynecuzick	2019-04-01T13:48:43Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000412	cotyledon disease		plant disease								alaynecuzick	2019-04-01T13:48:43Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000413	hypocotyl disease		plant disease								alaynecuzick	2019-04-01T13:48:43Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000414	fruit disease		plant disease			fruit infection					alaynecuzick	2019-04-01T13:48:43Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000415	pod disease		plant disease								alaynecuzick	2019-04-01T13:48:43Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000416	seed disease		plant disease								alaynecuzick	2019-04-01T13:48:43Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000417	potato wart		plant disease								alaynecuzick	2020-03-17T14:33:43Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000418	acute hepatopancreatic necrosis disease		animal disease	early mortality syndrome							jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000419	Alternaria leaf blight		leaf blight								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000420	avian colisepticemia		colisepticemia								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000421	bacterial brown stripe		bacterial disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000422	bacterial disease		disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000423	bacterial fruit blotch		blotch,bacterial disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000424	bacterial sepsis		sepsis,bacterial disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000425	bark canker		canker								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000426	bitter rot		rot								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000427	blackleg (Brassica)		blackleg (plant)								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000428	blackleg (plant)		plant disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000429	blackleg (potato)		blackleg (plant)								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000430	blight		plant disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000431	blotch		plant disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000432	blue rot		rot								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000433	Botryosphaeria canker		canker								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000434	bronchial fibrosis		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000435	canker		plant disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000436	catheter-associated urinary tract infection		urinary tract infection	CAUTI							jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000437	center rot		rot								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000438	Cercospora leaf blight		leaf blight								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000439	cervical lymphadenitis		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000440	chorioamnionitis		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000441	Citrus greening disease		plant disease	huanglongbing							jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000442	colisepticemia		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000443	colonic hyperplasia		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000444	common scab		scab								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000445	community-acquired infection		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000446	cryptococcal meningitis		meningitis								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000447	downy blight		blight								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000448	early blight		blight								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000449	false smut		smut								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000450	fowl typhoid		typhoid								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000451	fungal disease		disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000452	gastritis		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000453	glomerulonephritis		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000454	green rot		rot								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000455	grey leaf spot		leaf spot								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000456	Haemophilus influenzae disease		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000457	hypertrophy sorosis scleroteniosis		plant disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000458	invasive candidiasis		candidiasis,invasive disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000459	leaf rust		rust,leaf disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000460	midrib rot		rot								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000461	mildew		plant disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000462	mold		plant disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000463	nail infection		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000464	necrotizing myositis		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000465	northern corn leaf blight		leaf blight								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000466	peptic ulcer disease		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000467	periapical periodontitis		periodontitis								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000468	pitch canker		canker								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000469	pleuropneumonia		respiratory disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000470	pneumococcal infection		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000471	pneumococcal meningitis		meningitis,pneumococcal infection								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000472	prosthetic joint infection		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000473	ring rot		plant disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000474	rot		plant disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000475	rust		plant disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000476	salpingitis		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000477	scab		plant disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000478	seedling rot		plant disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000479	septicemia anserum exsudativa		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000480	sheath blight		blight								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000481	skeletal disease		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000482	slippery skin (onion)		plant disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000483	sporotrichosis		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000484	spot		plant disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000485	stem blight		blight,stem disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000486	streptococcal disease		bacterial disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000487	streptococcal pharyngitis		streptococcal disease,pharyngitis								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000488	streptococcal sepsis		streptococcal disease,sepsis								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000489	streptococcal toxic shock-like syndrome		streptococcal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000490	stripe rust		rust								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000491	subcutaneous infection		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000492	systemic candidiasis		candidiasis,systemic disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000493	systemic disease		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000494	typhoid		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000495	ulcerative colitis		colitis								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000496	urogenital tract infection		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000497	urolithiasis		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000498	vaginal infection		animal disease								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000499	Valsa canker		canker								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000500	yellow wilt		wilt								jseager7	2025-07-17T00:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000501	hemorrhagic gastroenteritis		gastroenteritis								jseager7	2025-07-18T14:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000502	necrotizing enterocolitis		animal disease								jseager7	2025-07-18T14:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000503	implant-associated infection		animal disease								jseager7	2025-07-18T14:00:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000504	leaf anthracnose		leaf disease								jseager7	2025-07-22T12:45:36Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000505	encephalitis		animal disease									
