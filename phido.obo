@@ -271,7 +271,7 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000037
-name: banana fusarium wilt
+name: banana Fusarium wilt
 is_a: PHIDO:0000405 ! plant disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z

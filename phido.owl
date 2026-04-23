@@ -486,7 +486,7 @@
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
-        <rdfs:label>banana fusarium wilt</rdfs:label>
+        <rdfs:label>banana Fusarium wilt</rdfs:label>
     </owl:Class>
     
 
