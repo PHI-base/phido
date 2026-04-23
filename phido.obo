@@ -136,8 +136,7 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000019
-name: obsolete Ascochyta blight
-is_obsolete: true
+name: Ascochyta blight
 consider: PHIDO:0000430
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z

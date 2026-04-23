@@ -5,7 +5,7 @@ http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000003	obsolete acute enteric di
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000004	obsolete acute gastroenteritis							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000167	alaynecuzick	2019-02-27T14:11:00Z
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000006	obsolete african sleeping sickness							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000190		alaynecuzick	2019-02-27T14:11:00Z
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000014	obsolete anthracnose leaf spot							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000013,http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000211		alaynecuzick	2019-02-27T14:11:00Z
-http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000019	obsolete Ascochyta blight							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000430	alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000019	Ascochyta blight							false		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000430	alaynecuzick	2019-02-27T14:11:00Z
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000021	obsolete asymptomatic colonization							true			alaynecuzick	2019-02-27T14:11:00Z
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000038	obsolete barley leaf scald							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000210	alaynecuzick	2019-02-27T14:11:00Z
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000039	obsolete barley powdery mildew							true		http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000296	alaynecuzick	2019-02-27T14:11:00Z
