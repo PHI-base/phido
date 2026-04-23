@@ -5773,6 +5773,183 @@
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000406"/>
         <rdfs:label>encephalitis</rdfs:label>
     </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000506 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000506">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000338"/>
+        <oboInOwl:created_by>jseager7</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T10:23:48Z</oboInOwl:creation_date>
+        <rdfs:label>smut (sugarcane)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000507 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000507">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000414"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000473"/>
+        <oboInOwl:created_by>jseager7</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T10:40:57Z</oboInOwl:creation_date>
+        <rdfs:label>ring rot (apple)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000508 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000508">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000435"/>
+        <oboInOwl:created_by>jseager7</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T10:47:04Z</oboInOwl:creation_date>
+        <rdfs:label>canker (grape)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000509 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000509">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000108"/>
+        <oboInOwl:created_by>jseager7</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T11:04:04Z</oboInOwl:creation_date>
+        <rdfs:label>Curvularia leaf spot (maize)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000510 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000510">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000397"/>
+        <oboInOwl:created_by>jseager7</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T11:05:19Z</oboInOwl:creation_date>
+        <rdfs:label>wilt (mango)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000511 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000511">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000325"/>
+        <oboInOwl:created_by>jseager7</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T11:07:54Z</oboInOwl:creation_date>
+        <rdfs:label>seedling blight (rice)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000512 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000512">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000421"/>
+        <oboInOwl:created_by>jseager7</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T11:10:22Z</oboInOwl:creation_date>
+        <rdfs:label>bacterial brown stripe (rice)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000513 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000513">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000338"/>
+        <oboInOwl:created_by>jseager7</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T11:10:59Z</oboInOwl:creation_date>
+        <rdfs:label>head smut</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000514 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000514">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000513"/>
+        <oboInOwl:created_by>jseager7</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T11:11:22Z</oboInOwl:creation_date>
+        <rdfs:label>head smut (maize)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000515 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000515">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000475"/>
+        <oboInOwl:created_by>jseager7</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T11:13:14Z</oboInOwl:creation_date>
+        <rdfs:label>rust (soybean)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000516 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000516">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000435"/>
+        <oboInOwl:created_by>jseager7</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T11:13:37Z</oboInOwl:creation_date>
+        <rdfs:label>bleeding canker</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000517 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000517">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <oboInOwl:created_by>jseager7</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T11:14:58Z</oboInOwl:creation_date>
+        <rdfs:label>head rot</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000518 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000518">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000517"/>
+        <oboInOwl:created_by>jseager7</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T11:15:10Z</oboInOwl:creation_date>
+        <rdfs:label>head rot (cabbage)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000519 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000519">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000435"/>
+        <oboInOwl:created_by>jseager7</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T11:16:09Z</oboInOwl:creation_date>
+        <rdfs:label>summer canker</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000520 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000520">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <oboInOwl:created_by>jseager7</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T11:25:20Z</oboInOwl:creation_date>
+        <rdfs:label>Cucurbit yellow vine disease</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000521 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000521">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000025"/>
+        <oboInOwl:created_by>jseager7</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T11:26:15Z</oboInOwl:creation_date>
+        <rdfs:label>bacterial canker (kiwifruit)</rdfs:label>
+    </owl:Class>
 </rdf:RDF>
 
 

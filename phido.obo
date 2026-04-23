@@ -3689,3 +3689,116 @@ id: PHIDO:0000505
 name: encephalitis
 is_a: PHIDO:0000406 ! animal disease
 
+[Term]
+id: PHIDO:0000506
+name: smut (sugarcane)
+is_a: PHIDO:0000338 ! smut
+created_by: jseager7
+creation_date: 2026-04-23T10:23:48Z
+
+[Term]
+id: PHIDO:0000507
+name: ring rot (apple)
+is_a: PHIDO:0000414 ! fruit disease
+is_a: PHIDO:0000473 ! ring rot
+created_by: jseager7
+creation_date: 2026-04-23T10:40:57Z
+
+[Term]
+id: PHIDO:0000508
+name: canker (grape)
+is_a: PHIDO:0000435 ! canker
+created_by: jseager7
+creation_date: 2026-04-23T10:47:04Z
+
+[Term]
+id: PHIDO:0000509
+name: Curvularia leaf spot (maize)
+is_a: PHIDO:0000108 ! Curvularia leaf spot
+created_by: jseager7
+creation_date: 2026-04-23T11:04:04Z
+
+[Term]
+id: PHIDO:0000510
+name: wilt (mango)
+is_a: PHIDO:0000397 ! wilt
+created_by: jseager7
+creation_date: 2026-04-23T11:05:19Z
+
+[Term]
+id: PHIDO:0000511
+name: seedling blight (rice)
+is_a: PHIDO:0000325 ! seedling blight
+created_by: jseager7
+creation_date: 2026-04-23T11:07:54Z
+
+[Term]
+id: PHIDO:0000512
+name: bacterial brown stripe (rice)
+is_a: PHIDO:0000421 ! bacterial brown stripe
+created_by: jseager7
+creation_date: 2026-04-23T11:10:22Z
+
+[Term]
+id: PHIDO:0000513
+name: head smut
+is_a: PHIDO:0000338 ! smut
+created_by: jseager7
+creation_date: 2026-04-23T11:10:59Z
+
+[Term]
+id: PHIDO:0000514
+name: head smut (maize)
+is_a: PHIDO:0000513 ! head smut
+created_by: jseager7
+creation_date: 2026-04-23T11:11:22Z
+
+[Term]
+id: PHIDO:0000515
+name: rust (soybean)
+is_a: PHIDO:0000475 ! rust
+created_by: jseager7
+creation_date: 2026-04-23T11:13:14Z
+
+[Term]
+id: PHIDO:0000516
+name: bleeding canker
+is_a: PHIDO:0000435 ! canker
+created_by: jseager7
+creation_date: 2026-04-23T11:13:37Z
+
+[Term]
+id: PHIDO:0000517
+name: head rot
+is_a: PHIDO:0000405 ! plant disease
+created_by: jseager7
+creation_date: 2026-04-23T11:14:58Z
+
+[Term]
+id: PHIDO:0000518
+name: head rot (cabbage)
+is_a: PHIDO:0000517 ! head rot
+created_by: jseager7
+creation_date: 2026-04-23T11:15:10Z
+
+[Term]
+id: PHIDO:0000519
+name: summer canker
+is_a: PHIDO:0000435 ! canker
+created_by: jseager7
+creation_date: 2026-04-23T11:16:09Z
+
+[Term]
+id: PHIDO:0000520
+name: Cucurbit yellow vine disease
+is_a: PHIDO:0000405 ! plant disease
+created_by: jseager7
+creation_date: 2026-04-23T11:25:20Z
+
+[Term]
+id: PHIDO:0000521
+name: bacterial canker (kiwifruit)
+is_a: PHIDO:0000025 ! bacterial canker
+created_by: jseager7
+creation_date: 2026-04-23T11:26:15Z
+

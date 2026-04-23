@@ -505,3 +505,19 @@ http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000502	necrotizing enterocolitis
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000503	implant-associated infection		animal disease								jseager7	2025-07-18T14:00:00Z
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000504	leaf anthracnose		leaf disease								jseager7	2025-07-22T12:45:36Z
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000505	encephalitis		animal disease									
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000506	smut (sugarcane)		smut								jseager7	2026-04-23T10:23:48Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000507	ring rot (apple)		ring rot,fruit disease								jseager7	2026-04-23T10:40:57Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000508	canker (grape)		canker								jseager7	2026-04-23T10:47:04Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000509	Curvularia leaf spot (maize)		Curvularia leaf spot								jseager7	2026-04-23T11:04:04Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000510	wilt (mango)		wilt								jseager7	2026-04-23T11:05:19Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000511	seedling blight (rice)		seedling blight								jseager7	2026-04-23T11:07:54Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000512	bacterial brown stripe (rice)		bacterial brown stripe								jseager7	2026-04-23T11:10:22Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000513	head smut		smut								jseager7	2026-04-23T11:10:59Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000514	head smut (maize)		head smut								jseager7	2026-04-23T11:11:22Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000515	rust (soybean)		rust								jseager7	2026-04-23T11:13:14Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000516	bleeding canker		canker								jseager7	2026-04-23T11:13:37Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000517	head rot		plant disease								jseager7	2026-04-23T11:14:58Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000518	head rot (cabbage)		head rot								jseager7	2026-04-23T11:15:10Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000519	summer canker		canker								jseager7	2026-04-23T11:16:09Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000520	Cucurbit yellow vine disease		plant disease								jseager7	2026-04-23T11:25:20Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000521	bacterial canker (kiwifruit)		bacterial canker								jseager7	2026-04-23T11:26:15Z
