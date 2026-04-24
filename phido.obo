@@ -1817,8 +1817,9 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000247
-name: necrotic leaf spots
-is_a: PHIDO:0000405 ! plant disease
+name: obsolete necrotic leaf spots
+is_obsolete: true
+replaced_by: PHIDO:0000211
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 

@@ -282,7 +282,7 @@ http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000241	murine colonic hyperplasi
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000243	mycosis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000244	mycotic mastitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000246	necrotic enteritis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
-http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000247	necrotic leaf spots		plant disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000247	obsolete necrotic leaf spots							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000211		alaynecuzick	2019-02-27T14:11:00Z
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000248	necrotizing fasciitis		animal disease								alaynecuzick	2019-02-27T14:11:00Z
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000249	neonatal meningitis		meningitis								alaynecuzick	2019-02-27T14:11:00Z
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000250	neonatal pneumonia		meningitis								alaynecuzick	2019-02-27T14:11:00Z

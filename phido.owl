@@ -2869,10 +2869,11 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000247 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000247">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <obo:IAO_0100001 rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000211"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
-        <rdfs:label>necrotic leaf spots</rdfs:label>
+        <rdfs:label>obsolete necrotic leaf spots</rdfs:label>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
