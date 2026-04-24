@@ -361,7 +361,7 @@ http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000344	spot blotch		leaf disease
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000345	Stagonospora nodorum blotch		blotch	Septoria nodorum blotch							alaynecuzick	2019-02-27T14:11:00Z
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000346	stalk rot		rot								alaynecuzick	2019-02-27T14:11:00Z
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000347	stem canker		canker,stem disease								alaynecuzick	2019-02-27T14:11:00Z
-http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000348	stem necrosis		plant disease,stem disease								alaynecuzick	2019-02-27T14:11:00Z
+http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000348	obsolete stem necrosis							true	http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000349		alaynecuzick	2019-02-27T14:11:00Z
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000349	stem rot		rot,stem disease								alaynecuzick	2019-02-27T14:11:00Z
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000350	stem rust		rust,stem disease								alaynecuzick	2019-02-27T14:11:00Z
 http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000351	Stewart's wilt		wilt								alaynecuzick	2019-02-27T14:11:00Z

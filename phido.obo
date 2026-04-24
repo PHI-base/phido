@@ -2558,9 +2558,9 @@ creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000348
-name: stem necrosis
-is_a: PHIDO:0000405 ! plant disease
-is_a: PHIDO:0000408 ! stem disease
+name: obsolete stem necrosis
+is_obsolete: true
+replaced_by: PHIDO:0000349
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
