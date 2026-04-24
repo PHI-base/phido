@@ -242,6 +242,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000016 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000016">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000414"/>
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000477"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
@@ -390,7 +391,8 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000029 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000029">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000211"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000422"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>bacterial leaf spot</rdfs:label>
@@ -483,7 +485,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000037 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000037">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000397"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>banana Fusarium wilt</rdfs:label>
@@ -711,7 +713,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000057 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000057">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000430"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>blossom blight</rdfs:label>
@@ -779,7 +781,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000063 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000063">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000211"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>brown leaf spot</rdfs:label>
@@ -1107,7 +1109,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000092 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000092">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000474"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>collar rot</rdfs:label>
@@ -1151,7 +1153,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000096 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000096">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000338"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>corn smut</rdfs:label>
@@ -1173,7 +1175,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000098 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000098">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000338"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>covered smut</rdfs:label>
@@ -1217,7 +1219,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000102 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000102">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000474"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>crown rot</rdfs:label>
@@ -1737,7 +1739,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000148 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000148">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000430"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>fire blight</rdfs:label>
@@ -2127,7 +2129,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000182 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000182">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000430"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>halo blight</rdfs:label>
@@ -2922,7 +2924,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000252 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000252">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000431"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>net blotch</rdfs:label>
@@ -2933,7 +2935,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000253 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000253">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000430"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>northern leaf blight</rdfs:label>
@@ -3080,7 +3082,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000266 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000266">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000430"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>panicle blight</rdfs:label>
@@ -3681,7 +3683,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000319 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000319">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000474"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>tuber rot</rdfs:label>
@@ -3726,7 +3728,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000323 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000323">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000517"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>Sclerotinia head rot</rdfs:label>
@@ -3737,7 +3739,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000324 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000324">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000349"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>Sclerotinia stem rot</rdfs:label>
@@ -3840,7 +3842,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000333 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000333">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000474"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>sheath brown rot</rdfs:label>
@@ -3907,7 +3909,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000339 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000339">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000474"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>soft rot</rdfs:label>
@@ -3918,7 +3920,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000340 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000340">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000430"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>southern corn leaf blight</rdfs:label>
@@ -4522,7 +4524,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000393 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000393">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000462"/>
         <oboInOwl:created_by>alaynecuzick</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-27T14:11:00Z</oboInOwl:creation_date>
         <rdfs:label>white mold</rdfs:label>
@@ -5414,7 +5416,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000473 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000473">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000474"/>
         <oboInOwl:created_by>jseager7</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-17T00:00:00Z</oboInOwl:creation_date>
         <rdfs:label>ring rot</rdfs:label>
@@ -5469,7 +5471,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000478 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000478">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000474"/>
         <oboInOwl:created_by>jseager7</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-17T00:00:00Z</oboInOwl:creation_date>
         <rdfs:label>seedling rot</rdfs:label>
@@ -5901,7 +5903,7 @@
     <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000517 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000517">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000405"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000474"/>
         <oboInOwl:created_by>jseager7</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T11:14:58Z</oboInOwl:creation_date>
         <rdfs:label>head rot</rdfs:label>

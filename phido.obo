@@ -116,6 +116,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000016
 name: apple scab
+is_a: PHIDO:0000414 ! fruit disease
 is_a: PHIDO:0000477 ! scab
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
@@ -211,7 +212,8 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000029
 name: bacterial leaf spot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000211 ! leaf spot
+is_a: PHIDO:0000422 ! bacterial disease
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -272,7 +274,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000037
 name: banana Fusarium wilt
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000397 ! wilt
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -420,7 +422,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000057
 name: blossom blight
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000430 ! blight
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -464,7 +466,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000063
 name: brown leaf spot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000211 ! leaf spot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -676,7 +678,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000092
 name: collar rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -704,7 +706,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000096
 name: corn smut
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000338 ! smut
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -718,7 +720,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000098
 name: covered smut
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000338 ! smut
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -746,7 +748,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000102
 name: crown rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1082,7 +1084,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000148
 name: fire blight
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000430 ! blight
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1336,7 +1338,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000182
 name: halo blight
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000430 ! blight
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1851,14 +1853,14 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000252
 name: net blotch
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000431 ! blotch
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000253
 name: northern leaf blight
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000430 ! blight
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -1953,7 +1955,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000266
 name: panicle blight
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000430 ! blight
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2342,7 +2344,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000319
 name: tuber rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2371,14 +2373,14 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000323
 name: Sclerotinia head rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000517 ! head rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000324
 name: Sclerotinia stem rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000349 ! stem rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2445,7 +2447,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000333
 name: sheath brown rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2488,14 +2490,14 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000339
 name: soft rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000474 ! rot
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
 [Term]
 id: PHIDO:0000340
 name: southern corn leaf blight
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000430 ! blight
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -2887,7 +2889,7 @@ creation_date: 2019-02-27T14:11:00Z
 [Term]
 id: PHIDO:0000393
 name: white mold
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000462 ! mold
 created_by: alaynecuzick
 creation_date: 2019-02-27T14:11:00Z
 
@@ -3459,7 +3461,7 @@ creation_date: 2025-07-17T00:00:00Z
 [Term]
 id: PHIDO:0000473
 name: ring rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000474 ! rot
 created_by: jseager7
 creation_date: 2025-07-17T00:00:00Z
 
@@ -3494,7 +3496,7 @@ creation_date: 2025-07-17T00:00:00Z
 [Term]
 id: PHIDO:0000478
 name: seedling rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000474 ! rot
 created_by: jseager7
 creation_date: 2025-07-17T00:00:00Z
 
@@ -3770,7 +3772,7 @@ creation_date: 2026-04-23T11:13:37Z
 [Term]
 id: PHIDO:0000517
 name: head rot
-is_a: PHIDO:0000405 ! plant disease
+is_a: PHIDO:0000474 ! rot
 created_by: jseager7
 creation_date: 2026-04-23T11:14:58Z
 
