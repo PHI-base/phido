@@ -47,6 +47,12 @@
     
 
 
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym"/>
+    
+
+
     <!-- http://www.geneontology.org/formats/oboInOwl#hasExactSynonym -->
 
     <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
@@ -5952,6 +5958,18 @@
         <oboInOwl:created_by>jseager7</oboInOwl:created_by>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-23T11:26:15Z</oboInOwl:creation_date>
         <rdfs:label>bacterial canker (kiwifruit)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000522 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000522">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/phido.owl/PHIDO_0000409"/>
+        <oboInOwl:created_by>Hsinyugithub</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-11-24T10:34:29Z</oboInOwl:creation_date>
+        <oboInOwl:hasBroadSynonym>clubroot</oboInOwl:hasBroadSynonym>
+        <rdfs:label>clubroot disease</rdfs:label>
     </owl:Class>
 </rdf:RDF>
 

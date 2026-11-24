@@ -3805,3 +3805,11 @@ is_a: PHIDO:0000025 ! bacterial canker
 created_by: jseager7
 creation_date: 2026-04-23T11:26:15Z
 
+[Term]
+id: PHIDO:0000522
+name: clubroot disease
+synonym: "clubroot" BROAD []
+is_a: PHIDO:0000409 ! root disease
+created_by: Hsinyugithub
+creation_date: 2026-11-24T10:34:29Z
+
